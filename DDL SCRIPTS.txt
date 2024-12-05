@@ -1,0 +1,125 @@
+
+
+CREATE TABLE ALL_CUSTOMERS
+(
+    customer_id VARCHAR2(20) NOT NULL,
+    first_name VARCHAR2(25),
+    last_name VARCHAR2(25),
+    email VARCHAR2(50),
+    creation_date DATE,
+    customer_type VARCHAR2(20),
+    state VARCHAR2(20),
+    city VARCHAR2(20),
+    status VARCHAR2(10),
+    
+    CONSTRAINT customer_id_pk PRIMARY KEY (customer_id)
+    CONSTRAINT unique_email UNIQUE (email)
+    
+)
+
+CREATE TABLE all_products
+(
+    product_id VARCHAR2(20) NOT NULL,
+    product_name VARCHAR2(50),
+    category VARCHAR2(25),
+    product_cost NUMBER,
+    selling_price NUMBER(10,2),
+    gross_margin NUMBER(10,2),
+    quantity_in_stock NUMBER,
+    minimum_stock_level NUMBER,
+
+   
+    
+    CONSTRAINT all_products_id_pk PRIMARY KEY (product_id)
+    
+)
+CREATE TABLE all_invoices
+(
+    invoice_id VARCHAR2(20) NOT NULL,
+    customer_id VARCHAR2(20),
+    invoice_date DATE,
+    invoice_total NUMBER(10,2),
+    payment_status VARCHAR2(15),
+    
+    CONSTRAINT all_invoice_id_pk PRIMARY KEY (invoice_id),
+    CONSTRAINT all_customer_id_fk FOREIGN KEY(customer_id) REFERENCES all_customers(customer_id)ON DELETE CASCADE
+    
+)
+CREATE TABLE all_orders
+(
+    order_id VARCHAR2(20) NOT NULL,
+    customer_id VARCHAR2(20),
+    order_date DATE,
+    product_ordered VARCHAR2(50),
+    quantity_ordered NUMBER,
+    product_cost NUMBER,
+    order_total NUMBER(10,2),
+    shipping_address VARCHAR2(20),
+    order_status VARCHAR2(15),
+    product_id VARCHAR2(20),
+    
+    CONSTRAINT all_order_id_pk PRIMARY KEY (order_id),
+    CONSTRAINT all_order_cid_fk FOREIGN KEY(customer_id) REFERENCES all_customers(customer_id) ON DELETE CASCADE,
+    CONSTRAINT all_product_fk FOREIGN KEY(product_id) REFERENCES all_products(product_id)ON DELETE CASCADE
+    
+)
+
+CREATE TABLE employees
+(
+    employee_id VARCHAR2(20) NOT NULL,
+    first_name VARCHAR2(25),
+    last_name VARCHAR2(25),
+    gender VARCHAR2(10),
+    date_of_birth DATE,
+    marital_status VARCHAR2(10),
+    email VARCHAR2(50),
+    phone_number VARCHAR2(15)
+    hire_date DATE,
+    home_address  VARCHAR2(30)
+    job_title  VARCHAR2(40)
+    department VARCHAR2(40),
+    employment_status VARCHAR2(10),
+    employment_type VARCHAR2(15),
+    work_location VARCHAR2(20),
+    bank_details VARCHAR2(20),
+    health_plan VARCHAR2(40),
+    promotions VARCHAR2(10),
+    salary NUMBER,
+    
+    CONSTRAINT employee_id_pk PRIMARY KEY (employee_id)
+    CONSTRAINT unique_phone_number UNIQUE (phone_number) 
+)
+
+CREATE TABLE payroll
+(
+    employee_id VARCHAR2(20),
+    full_names VARCHAR2(50),
+    base_salary NUMBER,
+    overtime_hours NUMBER,
+    overtime_pay NUMBER(10,2),
+    tax_deduction NUMBER(10,2),
+    retirement_contr NUMBER(10,2),
+    loan_deductions NUMBER,
+    net_pay NUMBER(10,2),
+    payment_method VARCHAR2(25),
+    bank_name VARCHAR2(25),
+    account_number VARCHAR2(20);
+
+   CONSTRAINT  employee_id_fk FOREIGN KEY(employee_id) REFERENCES employees (employee_id);
+    
+)
+CREATE TABLE users
+(
+    user_id VARCHAR2(20),
+    first_name VARCHAR2(25),
+    last_name VARCHAR2(25),
+    user_name VARCHAR2(15),
+    password VARCHAR2(25),
+    role VARCHAR2(35),
+    department VARCHAR2(40),
+    status VARCHAR2(10)
+    
+   CONSTRAINT  primary_key PRIMARY KEY(user_id);
+
+    
+)

@@ -1,0 +1,85 @@
+
+1. Granting HR Manager role both System and Object Privileges to the Employees table
+CREATE USER C##a_shorte 
+ IDENTIFIED BY Shorte1565;
+
+GRANT CREATE SESSION TO C##a_shorte;
+
+
+GRANT SELECT,INSERT,UPDATE,DELETE
+ON c##orare.employees
+TO C##a_shorte ;
+--she has the role of HR manager
+
+2.Creating a role for marketing interns and allowing READ only to certain tables
+
+--creating a role
+CREATE ROLE c##marketing_interns;
+
+--granting READ only privileges of select tables to the role created
+GRANT SELECT ON c##orare.all_orders TO c##marketing_interns;
+GRANT SELECT ON c##orare.all_customers TO c##marketing_interns;
+GRANT SELECT ON c##orare.all_products TO c##marketing_interns;
+
+--creating users
+
+CREATE USER c##t_simchenko IDENTIFIED BY Simchenko6127;
+CREATE USER c##e_jenoure IDENTIFIED BY Jenoure2440;
+CREATE USER c##h_howels IDENTIFIED BY Howels7813;
+
+--adding the users to the role
+
+GRANT c##marketing_interns TO c##t_simchenko;
+GRANT c##marketing_interns TO c##e_jenoure;
+GRANT c##marketing_interns TO c##h_howels;
+
+-finally, granting system privileges so that they are able to login
+
+GRANT CREATE SESSION TO c##t_simchenko;
+GRANT CREATE SESSION TO c##e_jenoure;
+GRANT CREATE SESSION TO c##h_howels;
+
+
+3. Creating a welfare_group role for users who will access the employee_view table only
+
+--creating a role
+
+CREATE ROLE c##welfare_group;
+
+--granting READ only privileges for employees_view tables to the role created
+
+GRANT SELECT ON c##orare.employees_view TO c##welfare_group;;
+
+--creating users
+
+CREATE USER c##a_parfrey IDENTIFIED BY Parfrey9371;
+CREATE USER c##k_arnaudet IDENTIFIED BY Arnaudet7053;
+CREATE USER c##c_cottie IDENTIFIED BY Cottie3542;
+CREATE USER c##h_kliesl IDENTIFIED BY Kliesl9578;
+CREATE USER c##m_defau IDENTIFIED BY Defau2471;
+
+
+--adding the users to the role
+
+GRANT c##welfare_group TO c##a_parfrey;
+GRANT c##welfare_group TO c##k_arnaudet;
+GRANT c##welfare_group TO c##c_cottie;
+GRANT c##welfare_group TO c##h_kliesl;
+GRANT c##welfare_group TO c##m_defau;
+
+
+-finally, granting system privileges so that they are able to login
+
+GRANT CREATE SESSION TO c##a_parfrey;
+GRANT CREATE SESSION TO c##k_arnaudet;
+GRANT CREATE SESSION TO c##c_cottie;
+GRANT CREATE SESSION TO c##h_kliesl;
+GRANT CREATE SESSION TO c##m_defau;
+
+4. Revoking privilleges from Marketing_interns role once they left the organization
+
+REVOKE marketing_interns FROM c##t_simchenko,c##e_jenoure,c##h_howels;
+
+DROP ROLE marketing_interns;--optional. You might leave the role for future use
+
+

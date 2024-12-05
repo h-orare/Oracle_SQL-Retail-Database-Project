@@ -1,0 +1,51 @@
+product_id,product_name,category,product_cost,selling_price,gross_margin,quantity_in_stock,minimum_stock_level
+PROD1,ElectroGlow Tech Headphones,home decor,5,6.5,1.5,14,6
+PROD2,CozyChic Knit Sweater,home decor,51,66.3,15.3,7,9
+PROD3,RusticCharm Wooden Wall Art,home decor,9,11.7,2.7,18,6
+PROD4,PowerPulse Fitness Tracker,electronics,8,10.4,2.4,0,6
+PROD5,GlowGlam Radiant Face Serum,beauty products,10,13,3,2,8
+PROD6,SmartStream Smart TV,clothing,108,140.4,32.4,20,5
+PROD7,UrbanEdge Denim Jacket,electronics,85,110.5,25.5,7,10
+PROD8,EcoBloom Sustainable Plant Stand,beauty products,83,107.9,24.9,2,10
+PROD9,SportPro Agility Ladder,home decor,56,72.8,16.8,3,5
+PROD10,GlowGoddess Highlighter Palette,sports equipment,50,65,15,9,8
+PROD11,TechTrend Wireless Earbuds,beauty products,28,36.4,8.4,18,10
+PROD12,ChicChill Cashmere Scarf,beauty products,30,39,9,1,7
+PROD13,ModernMingle Geometric Throw Pillow,beauty products,73,94.9,21.9,8,10
+PROD14,FitFlex Resistance Bands Set,sports equipment,75,97.5,22.5,13,5
+PROD15,GlowGuru Facial Cleansing Brush,sports equipment,8,10.4,2.4,13,5
+PROD16,EcoEssence Solar Powered Lantern,beauty products,39,50.7,11.7,20,6
+PROD17,SportSwift Running Shoes,sports equipment,112,145.6,33.6,7,7
+PROD18,GlowGlow Illuminating Body Oil,home decor,91,118.3,27.3,15,10
+PROD19,SmartSync Smart Home Hub,clothing,42,54.6,12.6,17,9
+PROD20,TrendTide Graphic Tee,home decor,106,137.8,31.8,8,10
+PROD21,EcoElegance Bamboo Cutting Board,electronics,67,87.1,20.1,7,5
+PROD22,PowerPulse Portable Charger,sports equipment,74,96.2,22.2,9,8
+PROD23,ChicCharm Midi Dress,electronics,33,42.9,9.9,2,10
+PROD24,RetroRevive Vintage Record Player,sports equipment,32,41.6,9.6,12,9
+PROD25,SportStrike Boxing Gloves,clothing,58,75.4,17.4,18,9
+PROD26,GlowGlow Lip Plumping Gloss,electronics,9,11.7,2.7,9,6
+PROD27,TechTrend Smart Watch,clothing,17,22.1,5.1,7,5
+PROD28,CozyCurl Faux Fur Throw Blanket,clothing,62,80.6,18.6,20,9
+PROD29,UrbanVibe Industrial Floor Lamp,electronics,89,115.7,26.7,6,6
+PROD30,SportSprint Speed Jump Rope,beauty products,24,31.2,7.2,19,10
+PROD31,GlowGlow Hydrating Face Mask,home decor,21,27.3,6.3,8,6
+PROD32,EcoEco Reusable Shopping Bag,home decor,95,123.5,28.5,14,6
+PROD33,SmartSync Smart Doorbell,beauty products,109,141.7,32.7,19,9
+PROD34,TrendTide Distressed Jeans,home decor,75,97.5,22.5,16,8
+PROD35,RusticRoots Farmhouse Wall Clock,clothing,37,48.1,11.1,6,5
+PROD36,PowerPulse Wireless Charging Pad,clothing,36,46.8,10.8,15,8
+PROD37,ChicCharm Midi Skirt,home decor,118,153.4,35.4,18,7
+PROD38,ModernMingle Abstract Canvas Art,beauty products,26,33.8,7.8,0,9
+PROD39,FitFlex Yoga Mat,sports equipment,8,10.4,2.4,18,8
+PROD40,GlowGlow Nourishing Hair Mask,beauty products,75,97.5,22.5,13,6
+PROD41,TechTrend Bluetooth Speaker,beauty products,84,109.2,25.2,12,5
+PROD42,CozyCurl Knit Throw Pillow,beauty products,42,54.6,12.6,15,10
+PROD43,UrbanVibe Mid-Century Modern Chair,home decor,69,89.7,20.7,16,7
+PROD44,SportSprint Resistance Bands,electronics,41,53.3,12.3,10,9
+PROD45,GlowGlow Exfoliating Body Scrub,beauty products,116,150.8,34.8,12,6
+PROD46,EcoEco Stainless Steel Water Bottle,electronics,74,96.2,22.2,7,9
+PROD47,SmartSync Smart Thermostat,beauty products,48,62.4,14.4,8,10
+PROD48,TrendTide Utility Jacket,home decor,14,18.2,4.2,2,5
+PROD49,RusticRoots Farmhouse Wall Shelf,clothing,84,109.2,25.2,4,6
+PROD50,PowerPulse Portable Power Bank,electronics,65,84.5,19.5,9,7

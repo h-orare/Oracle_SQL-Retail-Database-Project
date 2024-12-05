@@ -1,0 +1,7 @@
+1. The organization has decided to create a staff welfare group. The welfare group (made up of five employees drawn from different departments) has decided that from time to time, it will be delivering birthday surprise gifts to employees in their homes. So, they will need access to the employees table so that they pick the correct addresses to deliver gifts to. In this case, I have created a view of the employees table that ONLY retrieves names and home_addresses of all employees and hiding details like salary and other Personally Identifiable Information
+
+
+CREATE OR REPLACE VIEW employees_view
+AS SELECT employee_id, (first_name|| ' '|| last_name) as FULL_NAME,   TO_CHAR(date_of_birth, 'DD-MON') AS birthday_month,home_address,department,work_location
+FROM employees
+WITH READ ONLY;

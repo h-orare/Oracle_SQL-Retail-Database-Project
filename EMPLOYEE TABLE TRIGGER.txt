@@ -1,0 +1,45 @@
+CREATE TABLE employee_audit_table
+(
+    employee_id VARCHAR2(20) NOT NULL,
+    first_name VARCHAR2(25) NOT NULL,
+    last_name VARCHAR2(25) NOT NULL,
+    gender VARCHAR2(10) NOT NULL,
+    date_of_birth DATE NOT NULL,
+    marital_status VARCHAR2(10) NOT NULL,
+    email VARCHAR2(50) NOT NULL,
+    phone_number VARCHAR2(15) NOT NULL,
+    hire_date DATE NOT NULL,
+    home_address  VARCHAR2(30) NOT NULL,
+    job_title  VARCHAR2(40) NOT NULL,
+    department VARCHAR2(40) NOT NULL,
+    employment_status VARCHAR2(10) NOT NULL,
+    employment_type VARCHAR2(15) NOT NULL,
+    work_location VARCHAR2(20) NOT NULL,
+    bank_details VARCHAR2(20) NOT NULL,
+    health_plan VARCHAR2(40) NOT NULL,
+    promotions VARCHAR2(10) NOT NULL,
+    salary NUMBER NOT NULL,
+    action_type VARCHAR2(25) NOT NULL,
+    action_date DATE NOT NULL
+)
+
+
+CREATE OR REPLACE TRIGGER employee_after_dml
+AFTER INSERT OR UPDATE OR DELETE
+ON employees
+FOR EACH ROW
+BEGIN
+  IF INSERTING THEN
+    INSERT INTO employee_audit_table VALUES
+    (:new.employee_id, :new.first_name,:new.last_name,:new.gender,:new.date_of_birth,:new.marital_status,:new.email,:new.phone_number,:new.hire_date,:new.home_address,:new.job_title,:new.department,:new.employment_status,:new.employment_type, 
+     :new.work_location,:new.bank_details,:new.health_plan,:new.promotions,:new.salary,'INSERTED', SYSDATE);
+  ELSIF UPDATING THEN
+    INSERT INTO employee_audit_table VALUES
+  (:old.employee_id, :old.first_name,:old.last_name,:old.gender,:old.date_of_birth,:old.marital_status,:old.email,:old.phone_number,:old.hire_date,:old.home_address,:old.job_title,:old.department,:old.employment_status,:old.employment_type, 
+     :old.work_location,:old.bank_details,:old.health_plan,:old.promotions,:old.salary,'UPDATED', SYSDATE);
+  ELSIF DELETING THEN
+    INSERT INTO employee_audit_table VALUES
+    (:old.employee_id, :old.first_name,:old.last_name,:old.gender,:old.date_of_birth,:old.marital_status,:old.email,:old.phone_number,:old.hire_date,:old.home_address,:old.job_title,:old.department,:old.employment_status,:old.employment_type, 
+     :old.work_location,:old.bank_details,:old.health_plan,:old.promotions,:old.salary,'DELETED', SYSDATE);
+  END IF;  
+END;

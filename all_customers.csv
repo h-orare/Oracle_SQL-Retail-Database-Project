@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,creation_date,customer_type,email,state,city,status
+CUST1,Valle,Grunder,16-Jul-2024,Distributor,vgrunder0@networksolutions.com,Washington,Vancouver,Active
+CUST2,Shandee,Necolds,15-Jun-2024,Direct Consumer,snecolds1@mtv.com,Ohio,Cincinnati,Active
+CUST3,Phillie,Giottini,11-Jul-2023,Direct Consumer,pgiottini2@umich.edu,California,Long Beach,Active
+CUST4,Corina,Hansed,08-Dec-2024,Retail,chansed3@mlb.com,Texas,Odessa,Active
+CUST5,Wendeline,Mayhew,31-Aug-2024,Distributor,wmayhew4@mail.ru,Massachusetts,Springfield,Inactive
+CUST6,Ursula,Hambers,11-May-2024,Wholesale,uhambers5@yelp.com,Hawaii,Honolulu,Active
+CUST7,Leonardo,Hughson,19-May-2022,Government,lhughson6@dion.ne.jp,Arizona,Apache Junction,Active
+CUST8,Alaric,Burras,01-Jan-2024,Wholesale,aburras7@theglobeandmail.com,Texas,Amarillo,Active
+CUST9,Wald,Hillborne,30-Oct-2023,Retail,whillborne8@springer.com,New York,Rochester,Active
+CUST10,Shepperd,Rew,17-Aug-2023,NGO,srew9@state.tx.us,Louisiana,New Orleans,Inactive
+CUST11,Bettine,MacArte,19-Jan-2020,Retail,bmacartea@discuz.net,California,Sacramento,Inactive
+CUST12,Siobhan,Duffie,30-May-2023,Wholesale,sduffieb@soup.io,South Carolina,Columbia,Inactive
+CUST13,Delphinia,De Ath,28-Mar-2022,Retail,ddeathc@psu.edu,Utah,Salt Lake City,Active
+CUST14,Kirsti,Pallin,06-Sep-2023,NGO,kpallind@admin.ch,New York,Jamaica,Active
+CUST15,Fidel,Jannex,10-Sep-2020,Government,fjannexe@discovery.com,New York,New Hyde Park,Active
+CUST16,Dana,Keelinge,28-Oct-2023,Government,dkeelingef@huffingtonpost.com,Oklahoma,Oklahoma City,Active
+CUST17,Sylas,Long,27-Apr-2023,Direct Consumer,slongg@github.com,Florida,Boynton Beach,Active
+CUST18,Upton,McKinnon,15-Jun-2024,Retail,umckinnonh@discuz.net,District of Columbia,Washington,Inactive
+CUST19,Floris,Ruslin,01-Oct-2023,Retail,fruslini@princeton.edu,Florida,Tampa,Active
+CUST20,Jobi,Bridgement,12-Feb-2023,NGO,jbridgementj@wikipedia.org,Louisiana,New Orleans,Active
+CUST21,Elfrida,Regglar,28-Aug-2022,Direct Consumer,eregglark@freewebs.com,Kansas,Wichita,Active
+CUST22,Sioux,Nelmes,28-Jul-2021,Direct Consumer,snelmesl@ft.com,North Carolina,Greensboro,Inactive
+CUST23,Perice,Pach,26-Dec-2024,Distributor,ppachm@stumbleupon.com,Maryland,Baltimore,Active
+CUST24,Pammy,Himsworth,04-Oct-2020,Direct Consumer,phimsworthn@apple.com,Ohio,Dayton,Active
+CUST25,Arv,Renard,19-Feb-2023,NGO,arenardo@people.com.cn,Kentucky,Frankfort,Active
+CUST26,Gabe,Tippler,22-Sep-2023,Government,gtipplerp@nydailynews.com,Massachusetts,Boston,Active
+CUST27,Leif,Lawdham,04-Jun-2024,Direct Consumer,llawdhamq@hao123.com,Missouri,Saint Louis,Active
+CUST28,Aili,Whiteway,03-Apr-2024,Government,awhitewayr@weebly.com,North Carolina,Raleigh,Inactive
+CUST29,Cassy,Perassi,28-Aug-2022,NGO,cperassis@amazon.co.uk,Ohio,Columbus,Inactive
+CUST30,Jasun,Don,08-Mar-2022,Direct Consumer,jdont@gmpg.org,Texas,Corpus Christi,Active
+CUST31,Floria,Lodeke,15-Dec-2024,Government,flodekeu@woothemes.com,Florida,Tampa,Active
+CUST32,Bob,Guitel,25-Jan-2022,NGO,bguitelv@gravatar.com,California,San Francisco,Inactive
+CUST33,Arlyne,Van Merwe,12-Jan-2020,Retail,avanmerwew@woothemes.com,California,Pasadena,Inactive
+CUST34,Sumner,Hubbert,25-Mar-2022,Retail,shubbertx@newyorker.com,Virginia,Richmond,Inactive
+CUST35,Wilmer,Danielou,17-Jan-2020,Retail,wdanielouy@sohu.com,Minnesota,Young America,Active
+CUST36,Wilbert,Sinkin,02-Sep-2020,Direct Consumer,wsinkinz@ibm.com,Ohio,Cleveland,Active
+CUST37,Tristan,Ducket,23-Aug-2023,Distributor,tducket10@privacy.gov.au,New York,Elmira,Active
+CUST38,Daveta,Poppleston,29-May-2023,Wholesale,dpoppleston11@ustream.tv,Illinois,Joliet,Inactive
+CUST39,Juana,Plumstead,18-Apr-2023,Retail,jplumstead12@linkedin.com,Florida,Lakeland,Inactive
+CUST40,Anna-diana,Edworthy,21-Jun-2021,Retail,aedworthy13@dion.ne.jp,Maryland,Annapolis,Active
+CUST41,Darya,Gather,22-May-2021,Retail,dgather14@elegantthemes.com,California,Orange,Active
+CUST42,Lion,Trippack,15-Oct-2023,Retail,ltrippack15@yellowbook.com,California,Sacramento,Inactive
+CUST43,Greg,Pourvoieur,23-Dec-2024,Direct Consumer,gpourvoieur16@amazon.de,Missouri,Saint Louis,Active
+CUST44,Almeria,Caffin,31-May-2021,Retail,acaffin17@adobe.com,Maryland,Baltimore,Active
+CUST45,Alleyn,Ivell,11-Oct-2023,Government,aivell18@desdev.cn,South Carolina,Greenville,Active
+CUST46,Michell,Thackham,02-Jun-2022,Distributor,mthackham19@walmart.com,New York,Rochester,Active
+CUST47,Elisha,Turnbull,15-Feb-2023,Government,eturnbull1a@blogger.com,District of Columbia,Washington,Active
+CUST48,Frederico,Storm,04-Jul-2021,Government,fstorm1b@soundcloud.com,California,San Jose,Active
+CUST49,Phyllida,Lowes,03-Sep-2023,NGO,plowes1c@unicef.org,Wisconsin,Madison,Active
+CUST50,Olimpia,Jaram,05-Aug-2024,Wholesale,ojaram1d@blog.com,Massachusetts,Boston,Active
+CUST51,Harmony,Annatt,09-May-2020,Direct Consumer,hannatt1e@microsoft.com,New York,Albany,Active
+CUST52,Ozzie,Doge,21-Jun-2020,Retail,odoge1f@sogou.com,Indiana,Indianapolis,Inactive
+CUST53,Krishnah,Trenbay,29-Nov-2022,Direct Consumer,ktrenbay1g@mtv.com,Alabama,Birmingham,Active
+CUST54,Mariel,Renfield,27-Sep-2020,Government,mrenfield1h@youtube.com,Arizona,Tucson,Active
+CUST55,Fredra,Penketh,06-Jun-2020,Government,fpenketh1i@statcounter.com,Texas,Dallas,Active
+CUST56,Harper,Deeley,01-Sep-2021,NGO,hdeeley1j@disqus.com,Florida,Boynton Beach,Active
+CUST57,Jamey,Gimlet,06-Oct-2022,Distributor,jgimlet1k@github.com,Louisiana,New Orleans,Active
+CUST58,Mendel,Bradbrook,30-Jul-2023,Direct Consumer,mbradbrook1l@cloudflare.com,District of Columbia,Washington,Active
+CUST59,Chevy,Chastel,03-Dec-2022,Government,cchastel1m@google.ru,California,San Francisco,Active
+CUST60,Umberto,Poulgreen,23-Jun-2020,NGO,upoulgreen1n@ameblo.jp,Virginia,Alexandria,Active
+CUST61,Brantley,O' Cuolahan,07-Dec-2022,Government,bocuolahan1o@cdc.gov,Kentucky,Lexington,Inactive
+CUST62,Rafaello,Arnout,29-Jan-2023,Direct Consumer,rarnout1p@dagondesign.com,Pennsylvania,Wilkes Barre,Active
+CUST63,Harrie,Heimes,11-Sep-2024,Retail,hheimes1q@de.vu,North Carolina,Charlotte,Active
+CUST64,Minette,Loomis,14-Nov-2021,Direct Consumer,mloomis1r@ebay.co.uk,Utah,Salt Lake City,Inactive
+CUST65,Lizbeth,Obee,19-Oct-2023,Wholesale,lobee1s@theatlantic.com,Florida,Tampa,Active
+CUST66,Walden,Galsworthy,11-Oct-2022,Government,wgalsworthy1t@pcworld.com,West Virginia,Charleston,Active
+CUST67,Thedric,Mann,26-Jan-2022,NGO,tmann1u@ca.gov,California,Corona,Active
+CUST68,Lyssa,Richardt,06-Jan-2023,NGO,lrichardt1v@bigcartel.com,Iowa,Iowa City,Inactive
+CUST69,Nora,McGruar,11-Sep-2020,Direct Consumer,nmcgruar1w@irs.gov,California,Garden Grove,Active
+CUST70,Weylin,Mouton,05-Jun-2022,Wholesale,wmouton1x@aol.com,Tennessee,Nashville,Active
+CUST71,Fielding,Pipping,14-Jun-2021,Government,fpipping1y@tamu.edu,Texas,El Paso,Inactive
+CUST72,Dotti,Nettle,26-Apr-2020,Government,dnettle1z@acquirethisname.com,Texas,Corpus Christi,Active
+CUST73,Dinah,Croote,25-Jul-2022,Wholesale,dcroote20@zdnet.com,Washington,Everett,Active
+CUST74,Edyth,Van der Son,10-Feb-2020,Wholesale,evanderson21@wikimedia.org,Louisiana,New Orleans,Inactive
+CUST75,Hersh,Perkis,19-May-2022,Direct Consumer,hperkis22@reuters.com,California,Sacramento,Active
+CUST76,Amie,Toffolo,31-Aug-2020,Direct Consumer,atoffolo23@bloglovin.com,North Dakota,Fargo,Active
+CUST77,Ulysses,Biaggioli,21-Oct-2022,NGO,ubiaggioli24@theguardian.com,Texas,Corpus Christi,Active
+CUST78,Nikita,Fernley,26-Nov-2022,Distributor,nfernley25@plala.or.jp,California,Garden Grove,Active
+CUST79,Kurtis,Diprose,08-Feb-2022,Distributor,kdiprose26@canalblog.com,Missouri,Kansas City,Active
+CUST80,Estel,Blenkiron,14-Jul-2020,NGO,eblenkiron27@acquirethisname.com,Texas,Irving,Active
+CUST81,Gaby,Excell,19-Sep-2021,Retail,gexcell28@sourceforge.net,Missouri,Springfield,Active
+CUST82,Noami,Mallabund,26-Apr-2023,Direct Consumer,nmallabund29@hostgator.com,Virginia,Richmond,Active
+CUST83,Ivonne,Rowaszkiewicz,28-Feb-2024,Retail,irowaszkiewicz2a@ed.gov,Nevada,North Las Vegas,Inactive
+CUST84,Kendra,Rue,22-Dec-2020,Direct Consumer,krue2b@hubpages.com,Florida,Pinellas Park,Active
+CUST85,Tailor,Ezzle,23-Jul-2020,Wholesale,tezzle2c@paginegialle.it,North Carolina,Greensboro,Active
+CUST86,Brigham,Kinnar,29-Oct-2021,Direct Consumer,bkinnar2d@ifeng.com,Michigan,Detroit,Inactive
+CUST87,Matty,Urrey,31-Dec-2022,Direct Consumer,murrey2e@tripod.com,Maryland,Laurel,Active
+CUST88,Alys,Batter,07-Aug-2024,NGO,abatter2f@adobe.com,Nevada,Las Vegas,Active
+CUST89,Ibbie,Barling,16-Aug-2020,NGO,ibarling2g@vkontakte.ru,Colorado,Englewood,Active
+CUST90,Olympe,Bier,30-Sep-2022,NGO,obier2h@webs.com,Illinois,Peoria,Inactive
+CUST91,Karin,Skevington,22-Oct-2023,Retail,kskevington2i@taobao.com,Virginia,Merrifield,Active
+CUST92,Bernie,Pitchers,23-Jan-2023,Retail,bpitchers2j@europa.eu,Washington,Spokane,Active
+CUST93,Patti,McSporon,06-Nov-2023,Wholesale,pmcsporon2k@dell.com,California,Long Beach,Active
+CUST94,Harald,Cheke,02-Apr-2021,Direct Consumer,hcheke2l@google.it,Missouri,Saint Louis,Active
+CUST95,George,Leynagh,27-Apr-2023,Distributor,gleynagh2m@bloglovin.com,Ohio,Cincinnati,Active
+CUST96,Cinderella,Meldrum,29-Feb-2024,NGO,cmeldrum2n@macromedia.com,Washington,Tacoma,Active
+CUST97,Arther,Epinoy,06-Apr-2021,Wholesale,aepinoy2o@oaic.gov.au,Washington,Seattle,Inactive
+CUST98,Thaddeus,Birkenhead,13-Aug-2023,Distributor,tbirkenhead2p@vistaprint.com,Kentucky,London,Active
+CUST99,Lurline,Betz,26-Mar-2020,NGO,lbetz2q@about.com,North Carolina,Winston Salem,Active
+CUST100,Annaliese,Flea,08-May-2020,Wholesale,aflea2r@stumbleupon.com,New York,Brooklyn,Inactive

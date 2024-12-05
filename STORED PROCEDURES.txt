@@ -1,0 +1,150 @@
+1. A function to Calculate Total Order Amount for a given order. This function will sum up the (prices* quantities ordered)
+
+CREATE OR REPLACE FUNCTION get_total_order_amount
+(
+	order_id_param IN VARCHAR2
+
+)
+RETURN NUMBER AS
+total_order_amount_var NUMBER
+
+BEGIN
+	SELECT SUM(quantity_ordered * product_cost)
+	INTO total_order_amount_var
+	FROM products
+	WHERE order_id=order_id_param
+	RETURN total_order_amount_var
+
+END;
+
+This function can always be called as 
+
+SELECT get_total_order_amount('ORD222') AS ORDER_AMOUNT FROM DUAL;
+
+
+2. A procedure to check stock levels for all products. The procedure should issue an alert if any product stock falls below a minimum stock quantity
+
+CREATE OR REPLACE PROCEDURE check_stock_levels
+AS
+BEGIN
+	FOR products IN (
+	SELECT product_id,product_name, quantity_in_stock, minimum_stock_level
+	FROM all_products
+	WHERE quantity_in_stock < minimum_stock_level
+	)
+LOOP
+DBMS_OUTPUT.PUT_LINE('Low stock alert: ' || products.product_name||
+                             ' (ID: ' || products.product_id ||')'||
+                             ', (Current Stock: ' || products.quantity_in_stock ||')'||
+                             ', (Minimum Stock: ' || products.minimum_stock_level );
+    END LOOP;
+END;
+This procedure can then be called as
+
+SET SERVEROUTPUT ON;
+BEGIN
+    check_stock_levels();
+END;
+
+
+3. A procedure to retrieve all orders made by each customers within a given date range. It calculates the total order value bought by each customer and displays the results in descending order to determine customer who made the most purchases for a customer reward program. By retrieving their email addresses, you can decide to fetch the first 10, 20, 30 customers and send them a voucher on email or just a thank you message.
+
+CREATE OR REPLACE PROCEDURE get_top_customers(
+    start_date_param IN DATE,
+    end_date_param IN DATE
+)
+AS
+    CURSOR customer_cursor IS
+        SELECT 
+            c.first_name,
+            c.email,
+            SUM(o.product_cost * o.quantity_ordered) AS total_order_value
+        FROM 
+            all_customers c
+        INNER JOIN 
+            all_orders o 
+        ON 
+            c.customer_id = o.customer_id
+        WHERE 
+            o.order_date BETWEEN start_date_param AND end_date_param
+        GROUP BY 
+            c.first_name, c.email
+        ORDER BY 
+            total_order_value DESC;
+
+    v_first_name all_customers.first_name%TYPE;
+    v_email all_customers.email%TYPE;
+    v_total_order_value NUMBER;
+
+BEGIN
+    DBMS_OUTPUT.PUT_LINE('Top Customers:');
+    DBMS_OUTPUT.PUT_LINE('===============================');
+    
+    OPEN customer_cursor;
+    LOOP
+        FETCH customer_cursor INTO v_first_name, v_email, v_total_order_value;
+        EXIT WHEN customer_cursor%NOTFOUND;
+        
+        DBMS_OUTPUT.PUT_LINE('Name: ' || v_first_name || ', Email: ' || v_email || ', Order Value: ' || v_total_order_value);
+        
+    END LOOP;
+    CLOSE customer_cursor;
+END;
+/
+
+---This procedure can be called as below:
+
+SET SERVEROUTPUT ON;
+BEGIN
+    get_top_customers(
+        TO_DATE('2024-01-01', 'YYYY-MM-DD'),
+        TO_DATE('2024-12-25', 'YYYY-MM-DD')
+    );
+END;
+/
+
+3. A procedure to retrieve product name, category with highest gross margins from orders serviced within a given date range.This will help management identify most profitable products and also least profitable ones. This will help in decisions such product positioning, marketing, etc
+
+CREATE OR REPLACE PROCEDURE GET_GROSS_REVENUES(
+    start_date_param IN DATE,
+    end_date_param IN DATE
+)
+AS
+BEGIN
+    FOR rec IN (
+        SELECT 
+            o.product_ordered,
+            p.category,
+            SUM(o.quantity_ordered * p.gross_margin) AS gross_revenues
+        FROM 
+            all_orders o
+        JOIN 
+            all_products p
+        ON 
+            o.product_id = p.product_id
+        WHERE 
+            o.order_date BETWEEN start_date_param AND end_date_param 
+        GROUP BY 
+            o.product_ordered, p.category
+        ORDER BY 
+            gross_revenues DESC
+    )
+    LOOP
+        
+        DBMS_OUTPUT.PUT_LINE('Product: ' || rec.product_ordered || 
+                             ', Category: ' || rec.category || 
+                             ', Gross Revenues: ' || rec.gross_revenues);
+    END LOOP;
+END;
+/
+---This procedure can be called as:
+
+SET SERVEROUTPUT ON;
+BEGIN
+    get_gross_revenues(
+        TO_DATE('2024-01-01', 'YYYY-MM-DD'),
+        TO_DATE('2024-12-25', 'YYYY-MM-DD')
+    );
+END;
+/
+

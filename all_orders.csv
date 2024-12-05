@@ -1,0 +1,1001 @@
+order_id,customer_id,order_date,order_status,product_ordered,quantity_ordered,product_cost,order_total,shipping_address
+ORD1,CUST36,12/8/2023,Shipped,GlowGlow Hydrating Face Mask,9,8,93.6,Cleveland
+ORD2,CUST3,2/5/2024,Shipped,EcoBloom Sustainable Plant Stand,22,92,2631.2,Long Beach
+ORD3,CUST86,15-09-2022,Delivered,GlowGoddess Highlighter Palette,9,77,900.9,Detroit
+ORD4,CUST56,8/11/2023,Delivered,UrbanVibe Industrial Floor Lamp,18,52,1216.8,Boynton Beach
+ORD5,CUST7,1/7/2024,Shipped,GlowGlow Exfoliating Body Scrub,22,86,2459.6,Apache Junction
+ORD6,CUST28,15-07-2024,Pending,TechTrend Smart Watch,5,86,559,Raleigh
+ORD7,CUST55,6/8/2021,Pending,TrendTide Graphic Tee,11,113,1615.9,Dallas
+ORD8,CUST9,15-09-2021,Shipped,GlowGuru Facial Cleansing Brush,22,100,2860,Rochester
+ORD9,CUST61,25-11-2020,Shipped,PowerPulse Wireless Charging Pad,8,26,270.4,Lexington
+ORD10,CUST98,2/4/2020,Delivered,SmartSync Smart Home Hub,10,83,1079,London
+ORD11,CUST69,24-05-2023,Cancelled,PowerPulse Fitness Tracker,6,102,795.6,Garden Grove
+ORD12,CUST31,22-09-2020,Shipped,ChicCharm Midi Skirt,16,62,1289.6,Tampa
+ORD13,CUST94,28-03-2021,Delivered,CozyCurl Knit Throw Pillow,25,52,1690,Saint Louis
+ORD14,CUST15,3/5/2022,Delivered,GlowGlow Nourishing Hair Mask,7,73,664.3,New Hyde Park
+ORD15,CUST79,27-12-2021,Delivered,EcoElegance Bamboo Cutting Board,3,33,128.7,Kansas City
+ORD16,CUST18,14-06-2021,Delivered,SportPro Agility Ladder,18,112,2620.8,Washington
+ORD17,CUST77,19-11-2024,Pending,PowerPulse Portable Power Bank,23,111,3318.9,Corpus Christi
+ORD18,CUST64,25-10-2021,Cancelled,ModernMingle Abstract Canvas Art,1,76,98.8,Salt Lake City
+ORD19,CUST96,26-11-2021,Shipped,GlowGlow Illuminating Body Oil,18,117,2737.8,Tacoma
+ORD20,CUST44,2/10/2023,Pending,ElectroGlow Tech Headphones,16,25,520,Baltimore
+ORD21,CUST75,5/3/2021,Pending,ModernMingle Geometric Throw Pillow,21,55,1501.5,Sacramento
+ORD22,CUST59,30-11-2020,Shipped,SportSprint Speed Jump Rope,12,90,1404,San Francisco
+ORD23,CUST63,23-07-2020,Delivered,TechTrend Bluetooth Speaker,8,8,83.2,Charlotte
+ORD24,CUST42,12/3/2024,Delivered,SmartSync Smart Thermostat,3,46,179.4,Sacramento
+ORD25,CUST62,21-09-2020,Delivered,TechTrend Wireless Earbuds,10,42,546,Wilkes Barre
+ORD26,CUST70,23-09-2023,Delivered,RusticCharm Wooden Wall Art,2,71,184.6,Nashville
+ORD27,CUST87,11/9/2023,Delivered,CozyCurl Faux Fur Throw Blanket,16,113,2350.4,Laurel
+ORD28,CUST88,10/4/2021,Cancelled,PowerPulse Portable Charger,6,44,343.2,Las Vegas
+ORD29,CUST21,19-04-2021,Delivered,SmartSync Smart Doorbell,2,53,137.8,Wichita
+ORD30,CUST73,28-11-2023,Shipped,CozyChic Knit Sweater,25,45,1462.5,Everett
+ORD31,CUST26,11/1/2024,Delivered,ChicChill Cashmere Scarf,10,67,871,Boston
+ORD32,CUST23,5/9/2022,Delivered,FitFlex Yoga Mat,14,114,2074.8,Baltimore
+ORD33,CUST18,3/4/2022,Cancelled,CozyChic Knit Sweater,5,52,338,Washington
+ORD34,CUST82,1/3/2024,Pending,GlowGuru Facial Cleansing Brush,10,116,1508,Richmond
+ORD35,CUST100,5/6/2024,Delivered,SportStrike Boxing Gloves,1,58,75.4,Brooklyn
+ORD36,CUST27,2/8/2021,Cancelled,GlowGlam Radiant Face Serum,19,116,2865.2,Saint Louis
+ORD37,CUST32,29-01-2020,Shipped,SportSprint Speed Jump Rope,21,66,1801.8,San Francisco
+ORD38,CUST61,23-06-2020,Delivered,EcoElegance Bamboo Cutting Board,10,61,793,Lexington
+ORD39,CUST44,11/8/2020,Pending,ChicChill Cashmere Scarf,15,54,1053,Baltimore
+ORD40,CUST67,12/5/2023,Delivered,SmartSync Smart Home Hub,13,33,557.7,Corona
+ORD41,CUST9,6/3/2022,Delivered,TrendTide Distressed Jeans,8,110,1144,Rochester
+ORD42,CUST99,19-01-2024,Delivered,RusticCharm Wooden Wall Art,21,61,1665.3,Winston Salem
+ORD43,CUST87,5/1/2023,Delivered,SmartSync Smart Thermostat,12,52,811.2,Laurel
+ORD44,CUST69,1/4/2020,Shipped,GlowGoddess Highlighter Palette,18,46,1076.4,Garden Grove
+ORD45,CUST3,4/1/2024,Delivered,PowerPulse Portable Charger,25,94,3055,Long Beach
+ORD46,CUST94,18-12-2021,Shipped,ChicCharm Midi Skirt,15,46,897,Saint Louis
+ORD47,CUST60,25-01-2020,Pending,SportPro Agility Ladder,16,47,977.6,Alexandria
+ORD48,CUST38,20-10-2024,Delivered,RusticRoots Farmhouse Wall Clock,19,53,1309.1,Joliet
+ORD49,CUST8,14-05-2020,Pending,UrbanVibe Mid-Century Modern Chair,12,69,1076.4,Amarillo
+ORD50,CUST5,11/3/2021,Shipped,TechTrend Bluetooth Speaker,9,110,1287,Springfield
+ORD51,CUST77,7/7/2023,Delivered,UrbanEdge Denim Jacket,12,15,234,Corpus Christi
+ORD52,CUST30,11/2/2021,Shipped,SmartSync Smart Doorbell,7,41,373.1,Corpus Christi
+ORD53,CUST65,28-01-2021,Shipped,EcoEssence Solar Powered Lantern,9,41,479.7,Tampa
+ORD54,CUST57,19-07-2023,Shipped,ChicCharm Midi Dress,23,61,1823.9,New Orleans
+ORD55,CUST95,11/6/2024,Shipped,ElectroGlow Tech Headphones,8,12,124.8,Cincinnati
+ORD56,CUST80,13-11-2020,Delivered,TechTrend Wireless Earbuds,12,12,187.2,Irving
+ORD57,CUST2,26-05-2021,Pending,GlowGlow Hydrating Face Mask,10,65,845,Cincinnati
+ORD58,CUST45,21-01-2020,Delivered,GlowGlow Lip Plumping Gloss,12,22,343.2,Greenville
+ORD59,CUST52,20-02-2020,Cancelled,PowerPulse Wireless Charging Pad,14,26,473.2,Indianapolis
+ORD60,CUST86,1/2/2024,Cancelled,GlowGlow Nourishing Hair Mask,13,14,236.6,Detroit
+ORD61,CUST7,16-11-2024,Shipped,TrendTide Utility Jacket,7,82,746.2,Apache Junction
+ORD62,CUST76,24-10-2021,Pending,CozyCurl Faux Fur Throw Blanket,22,107,3060.2,Fargo
+ORD63,CUST74,18-08-2021,Pending,ChicCharm Midi Dress,19,24,592.8,New Orleans
+ORD64,CUST67,11/8/2023,Pending,GlowGlow Exfoliating Body Scrub,16,112,2329.6,Corona
+ORD65,CUST63,14-12-2022,Delivered,SportSprint Speed Jump Rope,23,12,358.8,Charlotte
+ORD66,CUST48,13-05-2022,Delivered,CozyCurl Knit Throw Pillow,15,21,409.5,San Jose
+ORD67,CUST4,7/3/2023,Delivered,ModernMingle Abstract Canvas Art,25,87,2827.5,Odessa
+ORD68,CUST53,21-05-2020,Pending,UrbanVibe Mid-Century Modern Chair,18,82,1918.8,Birmingham
+ORD69,CUST14,5/4/2021,Delivered,SportStrike Boxing Gloves,2,49,127.4,Jamaica
+ORD70,CUST57,17-07-2020,Pending,SmartSync Smart Home Hub,1,116,150.8,New Orleans
+ORD71,CUST11,24-12-2021,Delivered,EcoEco Stainless Steel Water Bottle,3,59,230.1,Sacramento
+ORD72,CUST43,12/6/2020,Pending,PowerPulse Fitness Tracker,4,58,301.6,Saint Louis
+ORD73,CUST100,14-05-2024,Cancelled,CozyCurl Faux Fur Throw Blanket,20,60,1560,Brooklyn
+ORD74,CUST10,1/10/2023,Shipped,GlowGlow Lip Plumping Gloss,11,107,1530.1,New Orleans
+ORD75,CUST95,31-05-2022,Delivered,FitFlex Yoga Mat,24,10,312,Cincinnati
+ORD76,CUST7,16-11-2022,Delivered,UrbanVibe Industrial Floor Lamp,10,52,676,Apache Junction
+ORD77,CUST18,6/8/2022,Pending,SmartStream Smart TV,18,103,2410.2,Washington
+ORD78,CUST45,5/8/2020,Delivered,EcoBloom Sustainable Plant Stand,23,39,1166.1,Greenville
+ORD79,CUST93,25-11-2023,Shipped,RusticCharm Wooden Wall Art,2,43,111.8,Long Beach
+ORD80,CUST54,8/8/2021,Cancelled,ElectroGlow Tech Headphones,9,95,1111.5,Tucson
+ORD81,CUST87,23-07-2021,Delivered,FitFlex Resistance Bands Set,13,37,625.3,Laurel
+ORD82,CUST62,25-05-2023,Shipped,TrendTide Distressed Jeans,16,57,1185.6,Wilkes Barre
+ORD83,CUST34,1/2/2023,Pending,RetroRevive Vintage Record Player,11,61,872.3,Richmond
+ORD84,CUST13,13-10-2022,Delivered,GlowGlow Nourishing Hair Mask,20,85,2210,Salt Lake City
+ORD85,CUST16,22-02-2022,Cancelled,RusticRoots Farmhouse Wall Clock,3,91,354.9,Oklahoma City
+ORD86,CUST94,15-07-2022,Delivered,ChicChill Cashmere Scarf,12,68,1060.8,Saint Louis
+ORD87,CUST12,3/4/2020,Delivered,ModernMingle Geometric Throw Pillow,16,112,2329.6,Columbia
+ORD88,CUST72,14-12-2024,Delivered,EcoEco Reusable Shopping Bag,12,51,795.6,Corpus Christi
+ORD89,CUST61,6/6/2021,Delivered,EcoEssence Solar Powered Lantern,23,22,657.8,Lexington
+ORD90,CUST96,10/7/2022,Delivered,GlowGlow Hydrating Face Mask,25,73,2372.5,Tacoma
+ORD91,CUST22,25-08-2022,Delivered,GlowGoddess Highlighter Palette,15,103,2008.5,Greensboro
+ORD92,CUST19,17-09-2023,Cancelled,TechTrend Smart Watch,4,120,624,Tampa
+ORD93,CUST69,9/2/2022,Delivered,SportSwift Running Shoes,25,20,650,Garden Grove
+ORD94,CUST41,5/9/2024,Pending,ModernMingle Abstract Canvas Art,22,90,2574,Orange
+ORD95,CUST85,14-06-2023,Delivered,SmartSync Smart Thermostat,18,92,2152.8,Greensboro
+ORD96,CUST66,29-06-2022,Delivered,UrbanEdge Denim Jacket,18,66,1544.4,Charleston
+ORD97,CUST74,4/4/2021,Delivered,EcoEssence Solar Powered Lantern,17,108,2386.8,New Orleans
+ORD98,CUST46,22-03-2021,Shipped,UrbanVibe Industrial Floor Lamp,15,40,780,Rochester
+ORD99,CUST53,15-12-2022,Delivered,TrendTide Utility Jacket,1,106,137.8,Birmingham
+ORD100,CUST45,4/4/2020,Shipped,SportStrike Boxing Gloves,20,68,1768,Greenville
+ORD101,CUST71,23-11-2021,Delivered,TechTrend Wireless Earbuds,14,57,1037.4,El Paso
+ORD102,CUST6,23-05-2023,Shipped,EcoBloom Sustainable Plant Stand,2,16,41.6,Honolulu
+ORD103,CUST44,14-02-2022,Pending,GlowGlow Nourishing Hair Mask,9,75,877.5,Baltimore
+ORD104,CUST86,23-06-2024,Delivered,PowerPulse Portable Charger,10,119,1547,Detroit
+ORD105,CUST4,17-01-2021,Shipped,CozyCurl Faux Fur Throw Blanket,1,9,11.7,Odessa
+ORD106,CUST2,28-05-2023,Pending,RusticCharm Wooden Wall Art,4,14,72.8,Cincinnati
+ORD107,CUST9,23-07-2022,Cancelled,ElectroGlow Tech Headphones,4,85,442,Rochester
+ORD108,CUST95,6/5/2022,Pending,GlowGlow Illuminating Body Oil,18,65,1521,Cincinnati
+ORD109,CUST70,30-10-2022,Shipped,SportSprint Speed Jump Rope,1,46,59.8,Nashville
+ORD110,CUST78,22-08-2021,Delivered,ChicCharm Midi Dress,8,90,936,Garden Grove
+ORD111,CUST36,1/5/2022,Delivered,FitFlex Yoga Mat,6,51,397.8,Cleveland
+ORD112,CUST13,26-04-2024,Delivered,SportPro Agility Ladder,22,112,3203.2,Salt Lake City
+ORD113,CUST21,9/6/2024,Shipped,ChicCharm Midi Skirt,3,91,354.9,Wichita
+ORD114,CUST75,17-12-2021,Shipped,ModernMingle Geometric Throw Pillow,7,97,882.7,Sacramento
+ORD115,CUST12,22-12-2022,Shipped,EcoEco Reusable Shopping Bag,18,90,2106,Columbia
+ORD116,CUST93,12/2/2023,Delivered,SportSwift Running Shoes,24,14,436.8,Long Beach
+ORD117,CUST92,30-03-2023,Shipped,RusticRoots Farmhouse Wall Shelf,19,109,2692.3,Spokane
+ORD118,CUST79,7/6/2024,Pending,GlowGlam Radiant Face Serum,22,32,915.2,Kansas City
+ORD119,CUST17,4/5/2024,Delivered,EcoElegance Bamboo Cutting Board,8,50,520,Boynton Beach
+ORD120,CUST56,2/8/2024,Delivered,GlowGlow Hydrating Face Mask,7,100,910,Boynton Beach
+ORD121,CUST24,3/3/2023,Shipped,GlowGoddess Highlighter Palette,20,35,910,Dayton
+ORD122,CUST14,5/5/2022,Pending,CozyChic Knit Sweater,3,64,249.6,Jamaica
+ORD123,CUST27,22-10-2021,Cancelled,TechTrend Smart Watch,5,26,169,Saint Louis
+ORD124,CUST82,2/3/2021,Shipped,RusticRoots Farmhouse Wall Clock,6,106,826.8,Richmond
+ORD125,CUST26,9/1/2020,Delivered,RetroRevive Vintage Record Player,23,70,2093,Boston
+ORD126,CUST6,21-09-2020,Delivered,TechTrend Wireless Earbuds,17,30,663,Honolulu
+ORD127,CUST79,20-11-2020,Delivered,GlowGlow Nourishing Hair Mask,3,11,42.9,Kansas City
+ORD128,CUST7,30-07-2021,Delivered,PowerPulse Fitness Tracker,24,28,873.6,Apache Junction
+ORD129,CUST82,9/1/2022,Delivered,CozyCurl Knit Throw Pillow,5,118,767,Richmond
+ORD130,CUST51,5/7/2021,Delivered,GlowGlow Hydrating Face Mask,1,15,19.5,Albany
+ORD131,CUST65,15-07-2024,Pending,SportSprint Resistance Bands,22,68,1944.8,Tampa
+ORD132,CUST38,2/6/2024,Delivered,EcoBloom Sustainable Plant Stand,6,23,179.4,Joliet
+ORD133,CUST57,26-09-2023,Shipped,RusticRoots Farmhouse Wall Clock,14,79,1437.8,New Orleans
+ORD134,CUST22,8/8/2023,Delivered,UrbanVibe Mid-Century Modern Chair,9,68,795.6,Greensboro
+ORD135,CUST50,31-12-2023,Shipped,SportSprint Speed Jump Rope,8,37,384.8,Boston
+ORD136,CUST17,10/5/2021,Delivered,RusticCharm Wooden Wall Art,13,93,1571.7,Boynton Beach
+ORD137,CUST70,3/5/2021,Shipped,FitFlex Yoga Mat,11,69,986.7,Nashville
+ORD138,CUST97,16-01-2020,Delivered,ElectroGlow Tech Headphones,21,67,1829.1,Seattle
+ORD139,CUST99,12/9/2020,Delivered,UrbanEdge Denim Jacket,21,77,2102.1,Winston Salem
+ORD140,CUST95,28-09-2020,Shipped,SmartStream Smart TV,8,16,166.4,Cincinnati
+ORD141,CUST55,21-10-2024,Shipped,CozyCurl Faux Fur Throw Blanket,4,117,608.4,Dallas
+ORD142,CUST74,4/8/2021,Pending,TrendTide Utility Jacket,17,43,950.3,New Orleans
+ORD143,CUST21,30-11-2022,Pending,GlowGlow Exfoliating Body Scrub,10,55,715,Wichita
+ORD144,CUST45,8/7/2020,Pending,SportSwift Running Shoes,6,9,70.2,Greenville
+ORD145,CUST98,1/7/2021,Delivered,ModernMingle Geometric Throw Pillow,25,40,1300,London
+ORD146,CUST64,7/2/2023,Cancelled,SmartSync Smart Thermostat,24,120,3744,Salt Lake City
+ORD147,CUST75,23-11-2023,Shipped,GlowGlow Illuminating Body Oil,15,21,409.5,Sacramento
+ORD148,CUST67,5/4/2021,Shipped,FitFlex Resistance Bands Set,16,49,1019.2,Corona
+ORD149,CUST58,18-03-2020,Shipped,EcoElegance Bamboo Cutting Board,19,8,197.6,Washington
+ORD150,CUST5,30-08-2024,Delivered,UrbanVibe Industrial Floor Lamp,5,82,533,Springfield
+ORD151,CUST9,4/1/2020,Delivered,ChicChill Cashmere Scarf,12,71,1107.6,Rochester
+ORD152,CUST39,12/6/2022,Shipped,PowerPulse Wireless Charging Pad,6,57,444.6,Lakeland
+ORD153,CUST35,17-09-2024,Pending,EcoEssence Solar Powered Lantern,18,73,1708.2,Young America
+ORD154,CUST8,6/6/2020,Delivered,SmartSync Smart Home Hub,4,117,608.4,Amarillo
+ORD155,CUST25,20-10-2022,Pending,RusticRoots Farmhouse Wall Shelf,21,86,2347.8,Frankfort
+ORD156,CUST11,16-03-2020,Delivered,SportSwift Running Shoes,25,47,1527.5,Sacramento
+ORD157,CUST45,25-09-2022,Pending,UrbanVibe Mid-Century Modern Chair,2,120,312,Greenville
+ORD158,CUST15,7/7/2020,Delivered,TechTrend Wireless Earbuds,14,32,582.4,New Hyde Park
+ORD159,CUST50,1/10/2023,Shipped,GlowGuru Facial Cleansing Brush,14,59,1073.8,Boston
+ORD160,CUST31,29-03-2020,Delivered,TechTrend Smart Watch,1,105,136.5,Tampa
+ORD161,CUST64,18-02-2021,Delivered,SportSprint Resistance Bands,10,117,1521,Salt Lake City
+ORD162,CUST56,4/8/2023,Cancelled,EcoEssence Solar Powered Lantern,8,80,832,Boynton Beach
+ORD163,CUST14,26-04-2021,Delivered,EcoEco Stainless Steel Water Bottle,6,16,124.8,Jamaica
+ORD164,CUST92,7/2/2022,Pending,RusticRoots Farmhouse Wall Clock,4,16,83.2,Spokane
+ORD165,CUST83,11/1/2022,Shipped,SportPro Agility Ladder,17,47,1038.7,North Las Vegas
+ORD166,CUST72,17-08-2020,Shipped,GlowGlow Nourishing Hair Mask,7,78,709.8,Corpus Christi
+ORD167,CUST49,15-09-2021,Delivered,SmartSync Smart Doorbell,25,103,3347.5,Madison
+ORD168,CUST93,2/2/2021,Pending,TrendTide Utility Jacket,12,98,1528.8,Long Beach
+ORD169,CUST82,4/7/2024,Shipped,ChicCharm Midi Dress,12,115,1794,Richmond
+ORD170,CUST65,10/6/2024,Delivered,PowerPulse Portable Power Bank,20,77,2002,Tampa
+ORD171,CUST27,2/12/2023,Shipped,EcoElegance Bamboo Cutting Board,4,45,234,Saint Louis
+ORD172,CUST88,2/2/2023,Delivered,GlowGlow Hydrating Face Mask,3,10,39,Las Vegas
+ORD173,CUST87,10/10/2021,Delivered,FitFlex Resistance Bands Set,20,42,1092,Laurel
+ORD174,CUST94,28-02-2020,Pending,SportSprint Speed Jump Rope,18,76,1778.4,Saint Louis
+ORD175,CUST81,28-12-2021,Delivered,CozyCurl Faux Fur Throw Blanket,6,6,46.8,Springfield
+ORD176,CUST47,24-07-2024,Delivered,TechTrend Bluetooth Speaker,2,70,182,Washington
+ORD177,CUST26,5/8/2022,Cancelled,ChicChill Cashmere Scarf,22,51,1458.6,Boston
+ORD178,CUST34,5/4/2022,Shipped,TrendTide Distressed Jeans,13,68,1149.2,Richmond
+ORD179,CUST67,28-05-2023,Delivered,RusticRoots Farmhouse Wall Shelf,17,36,795.6,Corona
+ORD180,CUST99,3/2/2024,Cancelled,ModernMingle Abstract Canvas Art,2,54,140.4,Winston Salem
+ORD181,CUST96,14-09-2020,Delivered,UrbanEdge Denim Jacket,9,116,1357.2,Tacoma
+ORD182,CUST55,15-12-2022,Shipped,SmartSync Smart Thermostat,12,42,655.2,Dallas
+ORD183,CUST78,4/10/2021,Delivered,EcoEco Reusable Shopping Bag,5,7,45.5,Garden Grove
+ORD184,CUST95,11/2/2023,Shipped,RusticCharm Wooden Wall Art,21,23,627.9,Cincinnati
+ORD185,CUST13,31-01-2022,Pending,PowerPulse Wireless Charging Pad,23,29,867.1,Salt Lake City
+ORD186,CUST37,18-07-2024,Pending,FitFlex Yoga Mat,0,105,0,Elmira
+ORD187,CUST77,14-07-2021,Pending,SmartSync Smart Home Hub,13,103,1740.7,Corpus Christi
+ORD188,CUST22,12/8/2024,Delivered,GlowGoddess Highlighter Palette,22,63,1801.8,Greensboro
+ORD189,CUST14,2/3/2020,Cancelled,ModernMingle Geometric Throw Pillow,17,6,132.6,Jamaica
+ORD190,CUST46,24-02-2021,Delivered,SportSwift Running Shoes,22,85,2431,Rochester
+ORD191,CUST29,4/5/2020,Delivered,SmartSync Smart Thermostat,21,20,546,Columbus
+ORD192,CUST82,27-09-2021,Delivered,ChicChill Cashmere Scarf,7,13,118.3,Richmond
+ORD193,CUST26,24-06-2022,Delivered,PowerPulse Wireless Charging Pad,24,56,1747.2,Boston
+ORD194,CUST80,9/5/2021,Delivered,RusticRoots Farmhouse Wall Shelf,14,83,1510.6,Irving
+ORD195,CUST24,27-12-2022,Delivered,EcoElegance Bamboo Cutting Board,2,27,70.2,Dayton
+ORD196,CUST63,21-01-2021,Delivered,CozyCurl Knit Throw Pillow,13,51,861.9,Charlotte
+ORD197,CUST73,5/9/2020,Shipped,TechTrend Bluetooth Speaker,5,107,695.5,Everett
+ORD198,CUST54,1/2/2023,Shipped,TrendTide Utility Jacket,11,7,100.1,Tucson
+ORD199,CUST48,4/11/2021,Cancelled,SportSprint Resistance Bands,11,28,400.4,San Jose
+ORD200,CUST100,11/5/2024,Pending,FitFlex Resistance Bands Set,11,112,1601.6,Brooklyn
+ORD201,CUST47,28-10-2020,Delivered,SmartSync Smart Doorbell,7,98,891.8,Washington
+ORD202,CUST51,31-03-2022,Delivered,RusticCharm Wooden Wall Art,3,43,167.7,Albany
+ORD203,CUST96,1/5/2023,Shipped,CozyChic Knit Sweater,14,75,1365,Tacoma
+ORD204,CUST10,5/12/2020,Delivered,GlowGlow Exfoliating Body Scrub,1,95,123.5,New Orleans
+ORD205,CUST56,24-02-2022,Delivered,TrendTide Distressed Jeans,6,44,343.2,Boynton Beach
+ORD206,CUST4,16-10-2023,Delivered,SportStrike Boxing Gloves,5,100,650,Odessa
+ORD207,CUST32,4/6/2020,Cancelled,TechTrend Wireless Earbuds,7,29,263.9,San Francisco
+ORD208,CUST33,13-12-2021,Delivered,GlowGlam Radiant Face Serum,7,5,45.5,Pasadena
+ORD209,CUST15,23-02-2023,Delivered,TechTrend Smart Watch,7,15,136.5,New Hyde Park
+ORD210,CUST95,12/3/2021,Cancelled,EcoEssence Solar Powered Lantern,8,117,1216.8,Cincinnati
+ORD211,CUST2,12/7/2024,Pending,GlowGlow Hydrating Face Mask,6,68,530.4,Cincinnati
+ORD212,CUST44,8/6/2024,Delivered,UrbanVibe Mid-Century Modern Chair,7,7,63.7,Baltimore
+ORD213,CUST37,30-12-2020,Pending,GlowGuru Facial Cleansing Brush,11,111,1587.3,Elmira
+ORD214,CUST28,9/10/2022,Cancelled,PowerPulse Portable Power Bank,21,109,2975.7,Raleigh
+ORD215,CUST72,25-09-2024,Delivered,EcoEco Reusable Shopping Bag,23,79,2362.1,Corpus Christi
+ORD216,CUST38,1/2/2023,Shipped,UrbanVibe Industrial Floor Lamp,18,99,2316.6,Joliet
+ORD217,CUST43,31-08-2021,Delivered,UrbanEdge Denim Jacket,23,107,3199.3,Saint Louis
+ORD218,CUST77,28-08-2023,Pending,SportSprint Resistance Bands,3,56,218.4,Corpus Christi
+ORD219,CUST36,1/8/2023,Cancelled,ChicChill Cashmere Scarf,5,24,156,Cleveland
+ORD220,CUST22,5/6/2020,Shipped,EcoEco Reusable Shopping Bag,12,43,670.8,Greensboro
+ORD221,CUST98,17-11-2023,Delivered,CozyChic Knit Sweater,1,40,52,London
+ORD222,CUST42,20-02-2022,Pending,GlowGlow Nourishing Hair Mask,22,25,715,Sacramento
+ORD223,CUST74,24-12-2020,Shipped,TechTrend Bluetooth Speaker,5,64,416,New Orleans
+ORD224,CUST15,14-11-2022,Shipped,ModernMingle Abstract Canvas Art,23,27,807.3,New Hyde Park
+ORD225,CUST58,18-02-2023,Delivered,SmartSync Smart Home Hub,17,12,265.2,Washington
+ORD226,CUST72,19-05-2024,Shipped,SportSwift Running Shoes,5,119,773.5,Corpus Christi
+ORD227,CUST68,20-05-2024,Shipped,EcoBloom Sustainable Plant Stand,0,62,0,Iowa City
+ORD228,CUST18,16-09-2022,Delivered,SportPro Agility Ladder,4,60,312,Washington
+ORD229,CUST33,9/11/2024,Delivered,SportStrike Boxing Gloves,2,102,265.2,Pasadena
+ORD230,CUST43,15-01-2020,Delivered,FitFlex Yoga Mat,8,30,312,Saint Louis
+ORD231,CUST91,8/3/2024,Delivered,TrendTide Distressed Jeans,0,11,0,Merrifield
+ORD232,CUST29,26-02-2022,Shipped,GlowGuru Facial Cleansing Brush,10,57,741,Columbus
+ORD233,CUST93,2/3/2024,Delivered,SmartSync Smart Doorbell,1,15,19.5,Long Beach
+ORD234,CUST55,7/10/2023,Cancelled,SmartSync Smart Thermostat,5,105,682.5,Dallas
+ORD235,CUST51,28-01-2023,Delivered,EcoElegance Bamboo Cutting Board,13,108,1825.2,Albany
+ORD236,CUST41,30-04-2022,Shipped,RusticCharm Wooden Wall Art,15,39,760.5,Orange
+ORD237,CUST40,27-02-2024,Pending,TrendTide Utility Jacket,2,102,265.2,Annapolis
+ORD238,CUST81,31-05-2022,Pending,FitFlex Resistance Bands Set,0,83,0,Springfield
+ORD239,CUST21,31-03-2023,Pending,RusticRoots Farmhouse Wall Clock,14,111,2020.2,Wichita
+ORD240,CUST69,29-11-2023,Delivered,GlowGoddess Highlighter Palette,5,41,266.5,Garden Grove
+ORD241,CUST35,10/7/2021,Delivered,GlowGlow Lip Plumping Gloss,13,18,304.2,Young America
+ORD242,CUST64,30-11-2024,Delivered,GlowGlow Illuminating Body Oil,4,7,36.4,Salt Lake City
+ORD243,CUST31,2/1/2024,Delivered,RusticRoots Farmhouse Wall Shelf,17,36,795.6,Tampa
+ORD244,CUST79,30-05-2022,Delivered,UrbanVibe Industrial Floor Lamp,21,75,2047.5,Kansas City
+ORD245,CUST86,21-06-2021,Pending,EcoEssence Solar Powered Lantern,10,23,299,Detroit
+ORD246,CUST59,8/6/2024,Pending,UrbanVibe Mid-Century Modern Chair,12,64,998.4,San Francisco
+ORD247,CUST66,22-05-2021,Delivered,SmartStream Smart TV,4,80,416,Charleston
+ORD248,CUST1,23-01-2022,Shipped,SportSprint Speed Jump Rope,22,9,257.4,Vancouver
+ORD249,CUST23,8/12/2024,Shipped,SportSprint Speed Jump Rope,13,75,1267.5,Baltimore
+ORD250,CUST43,29-08-2021,Delivered,RusticCharm Wooden Wall Art,21,39,1064.7,Saint Louis
+ORD251,CUST71,22-08-2022,Cancelled,UrbanVibe Mid-Century Modern Chair,2,45,117,El Paso
+ORD252,CUST77,15-08-2021,Pending,EcoEco Reusable Shopping Bag,6,91,709.8,Corpus Christi
+ORD253,CUST47,27-01-2020,Shipped,UrbanVibe Industrial Floor Lamp,6,47,366.6,Washington
+ORD254,CUST15,7/11/2021,Delivered,TechTrend Wireless Earbuds,18,9,210.6,New Hyde Park
+ORD255,CUST33,13-02-2022,Shipped,CozyCurl Knit Throw Pillow,13,72,1216.8,Pasadena
+ORD256,CUST52,20-06-2023,Delivered,GlowGuru Facial Cleansing Brush,10,89,1157,Indianapolis
+ORD257,CUST10,29-02-2024,Delivered,ChicChill Cashmere Scarf,17,5,110.5,New Orleans
+ORD258,CUST100,16-05-2021,Shipped,GlowGlow Hydrating Face Mask,1,117,152.1,Brooklyn
+ORD259,CUST80,13-03-2024,Delivered,FitFlex Yoga Mat,2,19,49.4,Irving
+ORD260,CUST78,9/12/2022,Shipped,GlowGlow Exfoliating Body Scrub,7,58,527.8,Garden Grove
+ORD261,CUST42,22-08-2021,Delivered,ElectroGlow Tech Headphones,17,117,2585.7,Sacramento
+ORD262,CUST62,8/11/2024,Pending,SmartSync Smart Doorbell,5,50,325,Wilkes Barre
+ORD263,CUST83,27-05-2020,Delivered,SmartSync Smart Home Hub,13,14,236.6,North Las Vegas
+ORD264,CUST32,27-09-2020,Pending,SportStrike Boxing Gloves,17,58,1281.8,San Francisco
+ORD265,CUST57,6/2/2023,Shipped,SmartStream Smart TV,16,9,187.2,New Orleans
+ORD266,CUST53,11/9/2023,Pending,CozyCurl Faux Fur Throw Blanket,22,38,1086.8,Birmingham
+ORD267,CUST39,23-12-2024,Delivered,RusticRoots Farmhouse Wall Clock,23,110,3289,Lakeland
+ORD268,CUST67,5/11/2022,Delivered,GlowGlow Lip Plumping Gloss,6,73,569.4,Corona
+ORD269,CUST99,29-01-2021,Delivered,PowerPulse Fitness Tracker,10,115,1495,Winston Salem
+ORD270,CUST45,1/4/2023,Shipped,GlowGlow Illuminating Body Oil,18,75,1755,Greenville
+ORD271,CUST17,25-02-2021,Pending,CozyChic Knit Sweater,15,57,1111.5,Boynton Beach
+ORD272,CUST90,1/12/2020,Shipped,GlowGlow Nourishing Hair Mask,6,109,850.2,Peoria
+ORD273,CUST81,5/12/2023,Delivered,PowerPulse Portable Charger,15,81,1579.5,Springfield
+ORD274,CUST59,26-09-2021,Delivered,EcoEco Stainless Steel Water Bottle,6,113,881.4,San Francisco
+ORD275,CUST8,5/7/2021,Pending,EcoElegance Bamboo Cutting Board,17,71,1569.1,Amarillo
+ORD276,CUST89,24-06-2022,Delivered,ModernMingle Abstract Canvas Art,16,82,1705.6,Englewood
+ORD277,CUST75,20-09-2020,Delivered,TechTrend Smart Watch,3,15,58.5,Sacramento
+ORD278,CUST88,20-11-2022,Shipped,TrendTide Utility Jacket,12,60,936,Las Vegas
+ORD279,CUST69,11/10/2022,Delivered,ModernMingle Geometric Throw Pillow,5,19,123.5,Garden Grove
+ORD280,CUST55,4/12/2021,Delivered,GlowGlow Illuminating Body Oil,11,102,1458.6,Dallas
+ORD281,CUST32,31-10-2021,Shipped,EcoEssence Solar Powered Lantern,24,47,1466.4,San Francisco
+ORD282,CUST46,31-05-2023,Delivered,GlowGlow Nourishing Hair Mask,6,36,280.8,Rochester
+ORD283,CUST74,27-08-2023,Shipped,ModernMingle Geometric Throw Pillow,0,76,0,New Orleans
+ORD284,CUST42,8/12/2023,Delivered,UrbanEdge Denim Jacket,7,42,382.2,Sacramento
+ORD285,CUST23,16-10-2020,Pending,CozyCurl Knit Throw Pillow,13,91,1537.9,Baltimore
+ORD286,CUST54,15-11-2022,Shipped,FitFlex Yoga Mat,16,91,1892.8,Tucson
+ORD287,CUST87,27-03-2023,Cancelled,SmartStream Smart TV,7,117,1064.7,Laurel
+ORD288,CUST92,19-12-2022,Pending,UrbanVibe Mid-Century Modern Chair,21,52,1419.6,Spokane
+ORD289,CUST19,9/3/2021,Shipped,PowerPulse Portable Charger,4,79,410.8,Tampa
+ORD290,CUST9,14-11-2024,Delivered,PowerPulse Wireless Charging Pad,9,102,1193.4,Rochester
+ORD291,CUST18,26-12-2024,Delivered,GlowGlow Hydrating Face Mask,2,86,223.6,Washington
+ORD292,CUST97,21-06-2024,Delivered,SmartSync Smart Doorbell,25,19,617.5,Seattle
+ORD293,CUST77,9/2/2023,Delivered,RetroRevive Vintage Record Player,0,85,0,Corpus Christi
+ORD294,CUST89,13-02-2023,Pending,TechTrend Bluetooth Speaker,4,97,504.4,Englewood
+ORD295,CUST35,10/8/2022,Delivered,ElectroGlow Tech Headphones,11,115,1644.5,Young America
+ORD296,CUST30,23-03-2022,Shipped,GlowGlam Radiant Face Serum,17,31,685.1,Corpus Christi
+ORD297,CUST80,23-01-2021,Shipped,EcoBloom Sustainable Plant Stand,12,82,1279.2,Irving
+ORD298,CUST12,15-03-2020,Delivered,UrbanVibe Industrial Floor Lamp,7,87,791.7,Columbia
+ORD299,CUST10,22-07-2021,Shipped,GlowGoddess Highlighter Palette,11,114,1630.2,New Orleans
+ORD300,CUST99,3/2/2023,Delivered,EcoEco Stainless Steel Water Bottle,2,11,28.6,Winston Salem
+ORD301,CUST63,11/2/2020,Delivered,SportSprint Resistance Bands,24,60,1872,Charlotte
+ORD302,CUST68,10/1/2024,Delivered,CozyCurl Faux Fur Throw Blanket,15,93,1813.5,Iowa City
+ORD303,CUST2,12/6/2023,Delivered,CozyChic Knit Sweater,23,90,2691,Cincinnati
+ORD304,CUST1,6/7/2022,Shipped,RusticRoots Farmhouse Wall Clock,14,91,1656.2,Vancouver
+ORD305,CUST53,14-09-2020,Delivered,ChicChill Cashmere Scarf,23,82,2451.8,Birmingham
+ORD306,CUST16,14-02-2022,Pending,ChicCharm Midi Skirt,0,101,0,Oklahoma City
+ORD307,CUST37,24-06-2023,Pending,TechTrend Wireless Earbuds,14,89,1619.8,Elmira
+ORD308,CUST72,21-12-2021,Delivered,ModernMingle Abstract Canvas Art,8,22,228.8,Corpus Christi
+ORD309,CUST28,4/10/2021,Delivered,EcoEco Reusable Shopping Bag,8,77,800.8,Raleigh
+ORD310,CUST82,27-05-2024,Delivered,GlowGuru Facial Cleansing Brush,9,115,1345.5,Richmond
+ORD311,CUST100,22-03-2021,Delivered,EcoEco Reusable Shopping Bag,24,53,1653.6,Brooklyn
+ORD312,CUST10,2/12/2020,Delivered,UrbanVibe Industrial Floor Lamp,13,45,760.5,New Orleans
+ORD313,CUST38,25-02-2022,Delivered,GlowGlam Radiant Face Serum,23,39,1166.1,Joliet
+ORD314,CUST63,6/8/2020,Shipped,FitFlex Resistance Bands Set,16,41,852.8,Charlotte
+ORD315,CUST48,4/11/2021,Delivered,GlowGlow Illuminating Body Oil,5,7,45.5,San Jose
+ORD316,CUST55,13-09-2020,Pending,GlowGlow Nourishing Hair Mask,13,6,101.4,Dallas
+ORD317,CUST68,3/6/2022,Shipped,UrbanEdge Denim Jacket,8,83,863.2,Iowa City
+ORD318,CUST27,27-07-2020,Shipped,GlowGlow Lip Plumping Gloss,0,57,0,Saint Louis
+ORD319,CUST71,14-03-2022,Delivered,GlowGoddess Highlighter Palette,11,11,157.3,El Paso
+ORD320,CUST56,26-11-2021,Delivered,FitFlex Yoga Mat,23,117,3498.3,Boynton Beach
+ORD321,CUST13,12/5/2021,Delivered,TrendTide Distressed Jeans,4,85,442,Salt Lake City
+ORD322,CUST21,19-11-2021,Shipped,SmartSync Smart Home Hub,2,72,187.2,Wichita
+ORD323,CUST22,22-06-2024,Shipped,SportSprint Speed Jump Rope,20,17,442,Greensboro
+ORD324,CUST7,31-01-2023,Pending,PowerPulse Wireless Charging Pad,13,119,2011.1,Apache Junction
+ORD325,CUST4,29-12-2021,Pending,SmartStream Smart TV,8,12,124.8,Odessa
+ORD326,CUST16,4/11/2021,Pending,ElectroGlow Tech Headphones,6,71,553.8,Oklahoma City
+ORD327,CUST57,15-07-2021,Shipped,RusticCharm Wooden Wall Art,7,119,1082.9,New Orleans
+ORD328,CUST1,17-10-2022,Pending,PowerPulse Portable Charger,10,23,299,Vancouver
+ORD329,CUST11,7/1/2021,Delivered,GlowGlow Hydrating Face Mask,19,76,1877.2,Sacramento
+ORD330,CUST77,16-10-2023,Shipped,TechTrend Wireless Earbuds,4,82,426.4,Corpus Christi
+ORD331,CUST43,3/10/2021,Delivered,RetroRevive Vintage Record Player,6,32,249.6,Saint Louis
+ORD332,CUST83,14-06-2022,Delivered,TechTrend Smart Watch,3,58,226.2,North Las Vegas
+ORD333,CUST62,29-06-2024,Shipped,GlowGuru Facial Cleansing Brush,19,51,1259.7,Wilkes Barre
+ORD334,CUST51,9/8/2024,Shipped,PowerPulse Fitness Tracker,2,48,124.8,Albany
+ORD335,CUST19,22-12-2023,Delivered,ChicChill Cashmere Scarf,8,82,852.8,Tampa
+ORD336,CUST95,7/8/2023,Pending,SmartSync Smart Thermostat,20,52,1352,Cincinnati
+ORD337,CUST53,27-10-2024,Delivered,PowerPulse Portable Power Bank,18,49,1146.6,Birmingham
+ORD338,CUST52,7/12/2024,Delivered,SportStrike Boxing Gloves,11,29,414.7,Indianapolis
+ORD339,CUST49,23-01-2021,Shipped,CozyChic Knit Sweater,15,17,331.5,Madison
+ORD340,CUST18,6/11/2024,Delivered,SportSwift Running Shoes,20,66,1716,Washington
+ORD341,CUST81,30-08-2022,Delivered,RusticRoots Farmhouse Wall Clock,1,62,80.6,Springfield
+ORD342,CUST87,4/10/2022,Delivered,UrbanVibe Mid-Century Modern Chair,24,94,2932.8,Laurel
+ORD343,CUST96,16-03-2021,Shipped,UrbanEdge Denim Jacket,12,73,1138.8,Tacoma
+ORD344,CUST49,21-04-2020,Cancelled,GlowGoddess Highlighter Palette,6,75,585,Madison
+ORD345,CUST77,7/9/2024,Delivered,FitFlex Yoga Mat,5,52,338,Corpus Christi
+ORD346,CUST100,22-12-2020,Delivered,GlowGlow Lip Plumping Gloss,6,14,109.2,Brooklyn
+ORD347,CUST15,29-09-2023,Shipped,GlowGlow Nourishing Hair Mask,18,72,1684.8,New Hyde Park
+ORD348,CUST94,18-10-2024,Cancelled,SportStrike Boxing Gloves,12,13,202.8,Saint Louis
+ORD349,CUST19,11/6/2022,Shipped,RusticRoots Farmhouse Wall Clock,13,61,1030.9,Tampa
+ORD350,CUST35,3/2/2024,Delivered,TrendTide Distressed Jeans,19,82,2025.4,Young America
+ORD351,CUST26,24-02-2020,Pending,PowerPulse Portable Charger,14,53,964.6,Boston
+ORD352,CUST61,18-10-2021,Pending,UrbanVibe Industrial Floor Lamp,1,87,113.1,Lexington
+ORD353,CUST37,13-10-2024,Shipped,SmartSync Smart Home Hub,23,52,1554.8,Elmira
+ORD354,CUST90,26-06-2023,Delivered,RetroRevive Vintage Record Player,18,109,2550.6,Peoria
+ORD355,CUST51,8/2/2021,Delivered,PowerPulse Portable Power Bank,10,75,975,Albany
+ORD356,CUST25,13-10-2024,Delivered,GlowGlow Hydrating Face Mask,9,65,760.5,Frankfort
+ORD357,CUST57,22-03-2020,Pending,SportSprint Speed Jump Rope,4,80,416,New Orleans
+ORD358,CUST54,25-01-2020,Delivered,PowerPulse Fitness Tracker,18,98,2293.2,Tucson
+ORD359,CUST44,28-08-2021,Delivered,ChicCharm Midi Dress,3,74,288.6,Baltimore
+ORD360,CUST11,27-01-2021,Shipped,TechTrend Wireless Earbuds,8,22,228.8,Sacramento
+ORD361,CUST38,20-01-2021,Shipped,CozyChic Knit Sweater,18,52,1216.8,Joliet
+ORD362,CUST68,14-10-2022,Shipped,EcoBloom Sustainable Plant Stand,20,13,338,Iowa City
+ORD363,CUST74,26-04-2024,Shipped,GlowGuru Facial Cleansing Brush,11,57,815.1,New Orleans
+ORD364,CUST56,10/7/2021,Shipped,EcoElegance Bamboo Cutting Board,6,86,670.8,Boynton Beach
+ORD365,CUST9,2/4/2023,Shipped,TrendTide Utility Jacket,9,59,690.3,Rochester
+ORD366,CUST86,10/2/2024,Delivered,RusticRoots Farmhouse Wall Shelf,21,115,3139.5,Detroit
+ORD367,CUST46,1/12/2020,Pending,ModernMingle Geometric Throw Pillow,21,112,3057.6,Rochester
+ORD368,CUST53,1/7/2024,Delivered,CozyCurl Faux Fur Throw Blanket,12,97,1513.2,Birmingham
+ORD369,CUST14,12/2/2024,Cancelled,ElectroGlow Tech Headphones,22,112,3203.2,Jamaica
+ORD370,CUST4,24-06-2022,Delivered,EcoEssence Solar Powered Lantern,2,93,241.8,Odessa
+ORD371,CUST7,18-02-2022,Shipped,GlowGlow Illuminating Body Oil,1,91,118.3,Apache Junction
+ORD372,CUST72,12/1/2020,Delivered,GlowGlam Radiant Face Serum,22,28,800.8,Corpus Christi
+ORD373,CUST76,23-10-2022,Shipped,EcoEco Stainless Steel Water Bottle,6,101,787.8,Fargo
+ORD374,CUST15,21-08-2023,Delivered,SmartStream Smart TV,14,94,1710.8,New Hyde Park
+ORD375,CUST82,3/2/2023,Shipped,GlowGlow Hydrating Face Mask,9,20,234,Richmond
+ORD376,CUST67,29-01-2022,Shipped,GlowGlow Exfoliating Body Scrub,6,24,187.2,Corona
+ORD377,CUST54,14-07-2024,Delivered,SmartSync Smart Doorbell,8,97,1008.8,Tucson
+ORD378,CUST100,26-04-2021,Delivered,TrendTide Utility Jacket,7,41,373.1,Brooklyn
+ORD379,CUST31,18-09-2023,Delivered,TrendTide Graphic Tee,0,24,0,Tampa
+ORD380,CUST89,21-05-2024,Shipped,CozyCurl Faux Fur Throw Blanket,10,16,208,Englewood
+ORD381,CUST44,28-12-2024,Pending,TechTrend Smart Watch,14,58,1055.6,Baltimore
+ORD382,CUST11,20-02-2023,Pending,SmartSync Smart Home Hub,16,119,2475.2,Sacramento
+ORD383,CUST74,1/2/2020,Delivered,GlowGoddess Highlighter Palette,10,104,1352,New Orleans
+ORD384,CUST5,26-03-2021,Delivered,PowerPulse Fitness Tracker,20,31,806,Springfield
+ORD385,CUST77,29-07-2022,Delivered,SportStrike Boxing Gloves,20,44,1144,Corpus Christi
+ORD386,CUST33,13-12-2021,Shipped,RetroRevive Vintage Record Player,1,110,143,Pasadena
+ORD387,CUST27,2/12/2024,Delivered,SportSwift Running Shoes,22,23,657.8,Saint Louis
+ORD388,CUST99,14-10-2021,Delivered,FitFlex Resistance Bands Set,23,46,1375.4,Winston Salem
+ORD389,CUST1,6/2/2021,Delivered,FitFlex Yoga Mat,8,8,83.2,Vancouver
+ORD390,CUST87,4/7/2022,Pending,ChicCharm Midi Skirt,25,32,1040,Laurel
+ORD391,CUST93,27-02-2022,Delivered,ModernMingle Geometric Throw Pillow,18,21,491.4,Long Beach
+ORD392,CUST23,1/4/2020,Delivered,ElectroGlow Tech Headphones,23,96,2870.4,Baltimore
+ORD393,CUST3,27-09-2022,Delivered,UrbanVibe Mid-Century Modern Chair,10,82,1066,Long Beach
+ORD394,CUST20,28-11-2024,Delivered,EcoBloom Sustainable Plant Stand,4,28,145.6,New Orleans
+ORD395,CUST14,8/6/2020,Shipped,GlowGlow Lip Plumping Gloss,2,29,75.4,Jamaica
+ORD396,CUST17,31-10-2024,Delivered,ChicChill Cashmere Scarf,7,102,928.2,Boynton Beach
+ORD397,CUST7,26-01-2024,Pending,SportSprint Resistance Bands,20,56,1456,Apache Junction
+ORD398,CUST28,5/11/2023,Delivered,EcoEco Reusable Shopping Bag,19,59,1457.3,Raleigh
+ORD399,CUST39,27-05-2023,Cancelled,CozyCurl Knit Throw Pillow,2,78,202.8,Lakeland
+ORD400,CUST60,2/5/2020,Shipped,UrbanEdge Denim Jacket,6,100,780,Alexandria
+ORD401,CUST10,13-11-2022,Pending,TechTrend Wireless Earbuds,13,22,371.8,New Orleans
+ORD402,CUST38,6/3/2021,Delivered,EcoEssence Solar Powered Lantern,2,25,65,Joliet
+ORD403,CUST63,27-02-2020,Delivered,PowerPulse Portable Charger,22,29,829.4,Charlotte
+ORD404,CUST66,24-12-2020,Delivered,SportStrike Boxing Gloves,21,115,3139.5,Charleston
+ORD405,CUST77,28-09-2023,Delivered,TechTrend Smart Watch,16,60,1248,Corpus Christi
+ORD406,CUST76,24-04-2021,Delivered,RusticRoots Farmhouse Wall Shelf,21,83,2265.9,Fargo
+ORD407,CUST63,6/1/2023,Delivered,SportPro Agility Ladder,12,101,1575.6,Charlotte
+ORD408,CUST73,9/7/2020,Pending,FitFlex Resistance Bands Set,21,94,2566.2,Everett
+ORD409,CUST99,26-05-2022,Delivered,PowerPulse Portable Charger,23,85,2541.5,Winston Salem
+ORD410,CUST97,10/7/2023,Delivered,GlowGlow Hydrating Face Mask,2,60,156,Seattle
+ORD411,CUST42,10/3/2020,Shipped,ChicCharm Midi Skirt,10,79,1027,Sacramento
+ORD412,CUST75,21-12-2023,Shipped,TechTrend Bluetooth Speaker,20,97,2522,Sacramento
+ORD413,CUST43,8/12/2023,Delivered,SmartStream Smart TV,13,48,811.2,Saint Louis
+ORD414,CUST94,17-03-2024,Delivered,EcoEco Reusable Shopping Bag,0,47,0,Saint Louis
+ORD415,CUST58,10/4/2021,Shipped,TechTrend Wireless Earbuds,17,101,2232.1,Washington
+ORD416,CUST67,5/6/2021,Shipped,ModernMingle Geometric Throw Pillow,23,73,2182.7,Corona
+ORD417,CUST72,24-06-2020,Cancelled,RetroRevive Vintage Record Player,6,57,444.6,Corpus Christi
+ORD418,CUST45,6/3/2022,Shipped,PowerPulse Portable Power Bank,22,10,286,Greenville
+ORD419,CUST51,26-01-2020,Cancelled,EcoElegance Bamboo Cutting Board,5,117,760.5,Albany
+ORD420,CUST57,18-02-2024,Delivered,GlowGoddess Highlighter Palette,5,71,461.5,New Orleans
+ORD421,CUST92,30-10-2023,Delivered,GlowGlow Nourishing Hair Mask,2,32,83.2,Spokane
+ORD422,CUST61,27-06-2024,Delivered,ChicCharm Midi Dress,16,62,1289.6,Lexington
+ORD423,CUST90,11/12/2024,Shipped,CozyCurl Faux Fur Throw Blanket,16,29,603.2,Peoria
+ORD424,CUST46,12/11/2021,Shipped,EcoBloom Sustainable Plant Stand,2,86,223.6,Rochester
+ORD425,CUST15,18-10-2023,Delivered,UrbanVibe Mid-Century Modern Chair,10,59,767,New Hyde Park
+ORD426,CUST52,20-01-2020,Delivered,SportSprint Speed Jump Rope,3,114,444.6,Indianapolis
+ORD427,CUST8,3/10/2024,Delivered,UrbanEdge Denim Jacket,20,57,1482,Amarillo
+ORD428,CUST12,16-05-2022,Delivered,SportSprint Resistance Bands,19,66,1630.2,Columbia
+ORD429,CUST10,11/3/2024,Cancelled,ModernMingle Abstract Canvas Art,4,114,592.8,New Orleans
+ORD430,CUST33,30-10-2020,Pending,TrendTide Utility Jacket,3,29,113.1,Pasadena
+ORD431,CUST56,24-05-2022,Pending,GlowGlam Radiant Face Serum,17,96,2121.6,Boynton Beach
+ORD432,CUST29,21-01-2020,Delivered,RusticCharm Wooden Wall Art,13,60,1014,Columbus
+ORD433,CUST16,18-01-2022,Cancelled,ChicChill Cashmere Scarf,13,42,709.8,Oklahoma City
+ORD434,CUST31,23-04-2022,Pending,GlowGuru Facial Cleansing Brush,14,59,1073.8,Tampa
+ORD435,CUST16,12/9/2023,Delivered,GlowGlow Hydrating Face Mask,24,68,2121.6,Oklahoma City
+ORD436,CUST53,25-04-2021,Pending,EcoEco Reusable Shopping Bag,12,48,748.8,Birmingham
+ORD437,CUST95,19-05-2023,Cancelled,TechTrend Smart Watch,22,84,2402.4,Cincinnati
+ORD438,CUST31,20-03-2022,Pending,GlowGlow Nourishing Hair Mask,19,111,2741.7,Tampa
+ORD439,CUST78,20-10-2020,Shipped,GlowGlow Illuminating Body Oil,9,86,1006.2,Garden Grove
+ORD440,CUST39,21-10-2022,Delivered,TrendTide Utility Jacket,25,47,1527.5,Lakeland
+ORD441,CUST56,8/2/2021,Shipped,FitFlex Resistance Bands Set,13,34,574.6,Boynton Beach
+ORD442,CUST84,4/10/2022,Delivered,GlowGlow Lip Plumping Gloss,1,19,24.7,Pinellas Park
+ORD443,CUST59,20-03-2020,Pending,PowerPulse Wireless Charging Pad,5,103,669.5,San Francisco
+ORD444,CUST40,3/4/2024,Shipped,CozyCurl Faux Fur Throw Blanket,1,44,57.2,Annapolis
+ORD445,CUST64,20-10-2024,Shipped,GlowGlow Exfoliating Body Scrub,22,99,2831.4,Salt Lake City
+ORD446,CUST9,6/12/2022,Delivered,SportSwift Running Shoes,13,105,1774.5,Rochester
+ORD447,CUST3,12/1/2020,Delivered,SmartSync Smart Home Hub,19,60,1482,Long Beach
+ORD448,CUST99,23-11-2024,Shipped,GlowGoddess Highlighter Palette,23,91,2720.9,Winston Salem
+ORD449,CUST80,22-10-2024,Delivered,FitFlex Yoga Mat,1,7,9.1,Irving
+ORD450,CUST27,5/11/2024,Pending,TechTrend Bluetooth Speaker,20,95,2470,Saint Louis
+ORD451,CUST42,21-11-2021,Delivered,EcoEco Stainless Steel Water Bottle,16,43,894.4,Sacramento
+ORD452,CUST24,13-03-2020,Delivered,SportSprint Speed Jump Rope,12,100,1560,Dayton
+ORD453,CUST97,23-11-2022,Shipped,EcoBloom Sustainable Plant Stand,25,47,1527.5,Seattle
+ORD454,CUST91,16-07-2022,Shipped,SportSprint Resistance Bands,23,89,2661.1,Merrifield
+ORD455,CUST11,10/1/2023,Shipped,UrbanEdge Denim Jacket,12,84,1310.4,Sacramento
+ORD456,CUST76,2/7/2020,Cancelled,GlowGuru Facial Cleansing Brush,4,53,275.6,Fargo
+ORD457,CUST89,16-07-2022,Delivered,CozyChic Knit Sweater,14,34,618.8,Englewood
+ORD458,CUST74,24-10-2023,Shipped,GlowGlam Radiant Face Serum,9,18,210.6,New Orleans
+ORD459,CUST44,30-08-2020,Delivered,SmartSync Smart Thermostat,19,34,839.8,Baltimore
+ORD460,CUST69,25-04-2020,Delivered,TrendTide Graphic Tee,5,54,351,Garden Grove
+ORD461,CUST35,25-09-2023,Pending,ModernMingle Abstract Canvas Art,13,79,1335.1,Young America
+ORD462,CUST96,23-06-2021,Delivered,ElectroGlow Tech Headphones,4,113,587.6,Tacoma
+ORD463,CUST73,10/2/2021,Cancelled,PowerPulse Portable Charger,10,85,1105,Everett
+ORD464,CUST72,25-02-2022,Pending,UrbanVibe Industrial Floor Lamp,17,119,2629.9,Corpus Christi
+ORD465,CUST22,21-05-2024,Cancelled,ChicCharm Midi Skirt,13,15,253.5,Greensboro
+ORD466,CUST32,6/4/2021,Delivered,EcoEco Reusable Shopping Bag,14,85,1547,San Francisco
+ORD467,CUST69,20-12-2020,Delivered,RusticRoots Farmhouse Wall Clock,6,75,585,Garden Grove
+ORD468,CUST100,9/8/2022,Delivered,ElectroGlow Tech Headphones,6,117,912.6,Brooklyn
+ORD469,CUST39,26-09-2023,Delivered,PowerPulse Portable Charger,21,28,764.4,Lakeland
+ORD470,CUST46,16-12-2024,Shipped,TrendTide Graphic Tee,0,10,0,Rochester
+ORD471,CUST23,1/8/2023,Delivered,UrbanVibe Mid-Century Modern Chair,17,14,309.4,Baltimore
+ORD472,CUST47,15-08-2024,Delivered,RetroRevive Vintage Record Player,10,11,143,Washington
+ORD473,CUST43,14-02-2023,Delivered,CozyChic Knit Sweater,25,106,3445,Saint Louis
+ORD474,CUST85,9/4/2023,Shipped,ModernMingle Abstract Canvas Art,16,90,1872,Greensboro
+ORD475,CUST59,8/7/2022,Delivered,SmartStream Smart TV,16,20,416,San Francisco
+ORD476,CUST21,22-09-2021,Delivered,UrbanEdge Denim Jacket,13,57,963.3,Wichita
+ORD477,CUST30,16-07-2020,Cancelled,SportStrike Boxing Gloves,0,73,0,Corpus Christi
+ORD478,CUST52,30-08-2021,Pending,EcoBloom Sustainable Plant Stand,15,119,2320.5,Indianapolis
+ORD479,CUST70,18-01-2022,Shipped,GlowGlow Exfoliating Body Scrub,5,14,91,Nashville
+ORD480,CUST26,3/7/2022,Delivered,GlowGuru Facial Cleansing Brush,13,108,1825.2,Boston
+ORD481,CUST41,27-12-2021,Delivered,TechTrend Smart Watch,22,33,943.8,Orange
+ORD482,CUST45,31-05-2022,Pending,EcoEco Stainless Steel Water Bottle,0,38,0,Greenville
+ORD483,CUST51,6/8/2020,Delivered,TechTrend Bluetooth Speaker,12,39,608.4,Albany
+ORD484,CUST81,19-07-2023,Delivered,GlowGlam Radiant Face Serum,14,23,418.6,Springfield
+ORD485,CUST91,30-03-2022,Delivered,GlowGlow Lip Plumping Gloss,20,88,2288,Merrifield
+ORD486,CUST4,6/4/2024,Delivered,GlowGlow Nourishing Hair Mask,9,100,1170,Odessa
+ORD487,CUST92,12/8/2021,Delivered,SportSprint Speed Jump Rope,6,82,639.6,Spokane
+ORD488,CUST11,5/12/2022,Cancelled,ChicCharm Midi Dress,17,71,1569.1,Sacramento
+ORD489,CUST50,23-07-2020,Delivered,CozyCurl Faux Fur Throw Blanket,1,64,83.2,Boston
+ORD490,CUST95,26-09-2022,Delivered,FitFlex Yoga Mat,16,112,2329.6,Cincinnati
+ORD491,CUST2,1/3/2024,Shipped,GlowGoddess Highlighter Palette,24,35,1092,Cincinnati
+ORD492,CUST42,24-05-2023,Pending,UrbanVibe Industrial Floor Lamp,1,39,50.7,Sacramento
+ORD493,CUST33,12/2/2023,Delivered,EcoEssence Solar Powered Lantern,11,54,772.2,Pasadena
+ORD494,CUST35,7/2/2023,Shipped,FitFlex Resistance Bands Set,15,72,1404,Young America
+ORD495,CUST67,1/5/2023,Pending,RusticRoots Farmhouse Wall Shelf,24,17,530.4,Corona
+ORD496,CUST75,29-04-2023,Shipped,ChicCharm Midi Skirt,19,61,1506.7,Sacramento
+ORD497,CUST58,15-07-2022,Delivered,ChicChill Cashmere Scarf,2,30,78,Washington
+ORD498,CUST92,6/1/2024,Delivered,SmartSync Smart Thermostat,8,101,1050.4,Spokane
+ORD499,CUST55,30-08-2020,Delivered,TechTrend Wireless Earbuds,11,42,600.6,Dallas
+ORD500,CUST15,29-05-2023,Shipped,SportSwift Running Shoes,19,47,1160.9,New Hyde Park
+ORD501,CUST85,13-07-2023,Shipped,TechTrend Smart Watch,5,5,32.5,Greensboro
+ORD502,CUST56,21-12-2024,Delivered,SportSprint Speed Jump Rope,13,21,354.9,Boynton Beach
+ORD503,CUST74,1/1/2020,Pending,FitFlex Resistance Bands Set,4,99,514.8,New Orleans
+ORD504,CUST96,28-03-2023,Shipped,EcoBloom Sustainable Plant Stand,16,74,1539.2,Tacoma
+ORD505,CUST68,19-09-2022,Shipped,SmartStream Smart TV,11,78,1115.4,Iowa City
+ORD506,CUST38,23-01-2023,Shipped,SportStrike Boxing Gloves,22,45,1287,Joliet
+ORD507,CUST33,1/11/2021,Delivered,EcoEssence Solar Powered Lantern,2,40,104,Pasadena
+ORD508,CUST39,23-10-2020,Cancelled,PowerPulse Portable Charger,5,25,162.5,Lakeland
+ORD509,CUST43,10/7/2024,Delivered,SmartSync Smart Doorbell,5,45,292.5,Saint Louis
+ORD510,CUST48,21-05-2024,Delivered,GlowGuru Facial Cleansing Brush,13,99,1673.1,San Jose
+ORD511,CUST59,11/7/2020,Pending,CozyCurl Knit Throw Pillow,24,36,1123.2,San Francisco
+ORD512,CUST9,24-09-2020,Delivered,RusticRoots Farmhouse Wall Shelf,17,84,1856.4,Rochester
+ORD513,CUST42,26-06-2023,Delivered,UrbanVibe Industrial Floor Lamp,24,6,187.2,Sacramento
+ORD514,CUST72,1/6/2024,Delivered,EcoEco Reusable Shopping Bag,17,85,1878.5,Corpus Christi
+ORD515,CUST5,11/12/2021,Delivered,SportSprint Resistance Bands,3,5,19.5,Springfield
+ORD516,CUST98,18-05-2020,Shipped,TrendTide Graphic Tee,17,56,1237.6,London
+ORD517,CUST97,5/9/2020,Shipped,FitFlex Yoga Mat,3,108,421.2,Seattle
+ORD518,CUST65,17-09-2022,Shipped,PowerPulse Portable Power Bank,20,113,2938,Tampa
+ORD519,CUST21,17-04-2023,Shipped,RetroRevive Vintage Record Player,19,98,2420.6,Wichita
+ORD520,CUST94,21-06-2021,Pending,GlowGlow Lip Plumping Gloss,15,115,2242.5,Saint Louis
+ORD521,CUST1,27-01-2024,Delivered,TrendTide Distressed Jeans,1,70,91,Vancouver
+ORD522,CUST40,13-01-2022,Shipped,GlowGlow Exfoliating Body Scrub,25,109,3542.5,Annapolis
+ORD523,CUST4,26-03-2024,Delivered,GlowGlam Radiant Face Serum,9,78,912.6,Odessa
+ORD524,CUST88,5/7/2023,Delivered,ModernMingle Abstract Canvas Art,8,92,956.8,Las Vegas
+ORD525,CUST60,7/9/2022,Delivered,ElectroGlow Tech Headphones,13,6,101.4,Alexandria
+ORD526,CUST19,9/2/2023,Pending,GlowGlow Illuminating Body Oil,20,95,2470,Tampa
+ORD527,CUST53,27-10-2022,Delivered,ModernMingle Geometric Throw Pillow,17,111,2453.1,Birmingham
+ORD528,CUST33,9/11/2024,Shipped,GlowGlow Illuminating Body Oil,9,28,327.6,Pasadena
+ORD529,CUST72,24-04-2021,Cancelled,CozyCurl Faux Fur Throw Blanket,7,21,191.1,Corpus Christi
+ORD530,CUST43,18-01-2020,Cancelled,ChicCharm Midi Dress,3,45,175.5,Saint Louis
+ORD531,CUST12,16-12-2024,Delivered,TrendTide Graphic Tee,5,116,754,Columbia
+ORD532,CUST71,19-01-2020,Shipped,GlowGlow Nourishing Hair Mask,25,32,1040,El Paso
+ORD533,CUST26,27-12-2024,Pending,TechTrend Bluetooth Speaker,5,92,598,Boston
+ORD534,CUST42,11/11/2022,Delivered,ChicCharm Midi Skirt,2,86,223.6,Sacramento
+ORD535,CUST75,16-05-2023,Pending,PowerPulse Portable Power Bank,7,83,755.3,Sacramento
+ORD536,CUST3,19-04-2024,Shipped,SmartSync Smart Thermostat,19,107,2642.9,Long Beach
+ORD537,CUST14,22-08-2024,Pending,ModernMingle Abstract Canvas Art,19,20,494,Jamaica
+ORD538,CUST36,14-08-2021,Delivered,FitFlex Yoga Mat,21,119,3248.7,Cleveland
+ORD539,CUST90,12/4/2021,Shipped,SportSprint Speed Jump Rope,13,24,405.6,Peoria
+ORD540,CUST7,29-07-2023,Delivered,UrbanVibe Mid-Century Modern Chair,13,96,1622.4,Apache Junction
+ORD541,CUST39,8/4/2023,Shipped,GlowGuru Facial Cleansing Brush,13,73,1233.7,Lakeland
+ORD542,CUST52,6/11/2024,Delivered,RetroRevive Vintage Record Player,2,41,106.6,Indianapolis
+ORD543,CUST78,7/12/2021,Delivered,PowerPulse Fitness Tracker,14,109,1983.8,Garden Grove
+ORD544,CUST23,30-12-2024,Delivered,ElectroGlow Tech Headphones,21,52,1419.6,Baltimore
+ORD545,CUST80,11/5/2020,Shipped,GlowGlow Hydrating Face Mask,23,117,3498.3,Irving
+ORD546,CUST10,31-10-2022,Delivered,TrendTide Distressed Jeans,21,67,1829.1,New Orleans
+ORD547,CUST41,1/6/2021,Shipped,UrbanVibe Industrial Floor Lamp,25,82,2665,Orange
+ORD548,CUST9,27-10-2020,Shipped,GlowGlow Lip Plumping Gloss,12,98,1528.8,Rochester
+ORD549,CUST74,22-07-2023,Shipped,SportStrike Boxing Gloves,19,31,765.7,New Orleans
+ORD550,CUST93,26-10-2021,Pending,SportSwift Running Shoes,1,96,124.8,Long Beach
+ORD551,CUST61,3/6/2023,Cancelled,PowerPulse Wireless Charging Pad,25,35,1137.5,Lexington
+ORD552,CUST46,7/3/2022,Delivered,CozyCurl Knit Throw Pillow,19,78,1926.6,Rochester
+ORD553,CUST25,4/1/2020,Shipped,TechTrend Smart Watch,6,73,569.4,Frankfort
+ORD554,CUST58,13-07-2020,Shipped,EcoElegance Bamboo Cutting Board,22,93,2659.8,Washington
+ORD555,CUST70,24-01-2023,Delivered,FitFlex Resistance Bands Set,17,19,419.9,Nashville
+ORD556,CUST69,1/1/2021,Pending,EcoEssence Solar Powered Lantern,8,22,228.8,Garden Grove
+ORD557,CUST100,19-12-2020,Pending,EcoEco Stainless Steel Water Bottle,3,76,296.4,Brooklyn
+ORD558,CUST8,23-06-2021,Delivered,GlowGlow Exfoliating Body Scrub,10,86,1118,Amarillo
+ORD559,CUST28,22-10-2020,Delivered,TrendTide Utility Jacket,2,95,247,Raleigh
+ORD560,CUST63,30-05-2024,Delivered,ModernMingle Geometric Throw Pillow,4,101,525.2,Charlotte
+ORD561,CUST54,13-05-2023,Delivered,GlowGlow Exfoliating Body Scrub,7,64,582.4,Tucson
+ORD562,CUST31,22-05-2021,Pending,SportSwift Running Shoes,22,37,1058.2,Tampa
+ORD563,CUST50,2/8/2023,Delivered,GlowGuru Facial Cleansing Brush,10,111,1443,Boston
+ORD564,CUST4,1/4/2022,Delivered,SmartStream Smart TV,0,5,0,Odessa
+ORD565,CUST97,16-04-2024,Shipped,SportStrike Boxing Gloves,4,117,608.4,Seattle
+ORD566,CUST27,12/7/2022,Pending,SportPro Agility Ladder,4,69,358.8,Saint Louis
+ORD567,CUST41,16-01-2022,Shipped,UrbanVibe Industrial Floor Lamp,17,102,2254.2,Orange
+ORD568,CUST56,27-03-2020,Cancelled,SmartSync Smart Doorbell,5,87,565.5,Boynton Beach
+ORD569,CUST62,12/7/2021,Delivered,GlowGlow Nourishing Hair Mask,11,84,1201.2,Wilkes Barre
+ORD570,CUST72,16-08-2020,Delivered,GlowGlow Illuminating Body Oil,2,34,88.4,Corpus Christi
+ORD571,CUST35,24-12-2024,Pending,TrendTide Distressed Jeans,4,33,171.6,Young America
+ORD572,CUST86,11/5/2020,Delivered,TechTrend Wireless Earbuds,24,111,3463.2,Detroit
+ORD573,CUST98,13-06-2020,Cancelled,EcoEssence Solar Powered Lantern,16,114,2371.2,London
+ORD574,CUST44,15-05-2020,Cancelled,FitFlex Yoga Mat,20,12,312,Baltimore
+ORD575,CUST76,7/7/2021,Delivered,CozyCurl Faux Fur Throw Blanket,16,61,1268.8,Fargo
+ORD576,CUST73,22-01-2020,Shipped,EcoBloom Sustainable Plant Stand,10,8,104,Everett
+ORD577,CUST14,27-03-2024,Delivered,CozyChic Knit Sweater,24,79,2464.8,Jamaica
+ORD578,CUST84,8/6/2023,Delivered,UrbanVibe Mid-Century Modern Chair,24,82,2558.4,Pinellas Park
+ORD579,CUST25,9/10/2021,Shipped,PowerPulse Wireless Charging Pad,9,101,1181.7,Frankfort
+ORD580,CUST67,29-03-2024,Pending,SportSprint Speed Jump Rope,13,18,304.2,Corona
+ORD581,CUST23,9/7/2021,Delivered,ChicCharm Midi Skirt,23,98,2930.2,Baltimore
+ORD582,CUST15,27-07-2021,Shipped,UrbanEdge Denim Jacket,24,115,3588,New Hyde Park
+ORD583,CUST70,23-07-2024,Pending,TrendTide Graphic Tee,5,13,84.5,Nashville
+ORD584,CUST82,10/6/2024,Delivered,SmartSync Smart Thermostat,15,120,2340,Richmond
+ORD585,CUST92,19-04-2023,Delivered,ChicCharm Midi Dress,22,7,200.2,Spokane
+ORD586,CUST66,18-04-2021,Delivered,GlowGlam Radiant Face Serum,3,97,378.3,Charleston
+ORD587,CUST71,26-05-2021,Delivered,ModernMingle Abstract Canvas Art,15,62,1209,El Paso
+ORD588,CUST45,25-06-2020,Delivered,CozyCurl Knit Throw Pillow,5,80,520,Greenville
+ORD589,CUST48,7/9/2024,Pending,TechTrend Bluetooth Speaker,14,18,327.6,San Jose
+ORD590,CUST54,28-06-2023,Delivered,EcoEco Stainless Steel Water Bottle,3,28,109.2,Tucson
+ORD591,CUST32,1/12/2021,Delivered,UrbanEdge Denim Jacket,5,67,435.5,San Francisco
+ORD592,CUST55,19-08-2023,Delivered,TrendTide Utility Jacket,8,90,936,Dallas
+ORD593,CUST6,17-03-2022,Delivered,RetroRevive Vintage Record Player,18,114,2667.6,Honolulu
+ORD594,CUST62,6/4/2020,Delivered,GlowGlow Hydrating Face Mask,24,58,1809.6,Wilkes Barre
+ORD595,CUST37,19-11-2023,Cancelled,GlowGuru Facial Cleansing Brush,8,89,925.6,Elmira
+ORD596,CUST28,8/7/2021,Delivered,GlowGlow Exfoliating Body Scrub,12,116,1809.6,Raleigh
+ORD597,CUST58,19-11-2021,Delivered,CozyChic Knit Sweater,24,47,1466.4,Washington
+ORD598,CUST48,25-09-2020,Delivered,SportStrike Boxing Gloves,8,64,665.6,San Jose
+ORD599,CUST22,11/1/2020,Pending,SportSprint Resistance Bands,13,119,2011.1,Greensboro
+ORD600,CUST67,11/5/2024,Shipped,GlowGlow Nourishing Hair Mask,21,101,2757.3,Corona
+ORD601,CUST80,12/10/2020,Shipped,FitFlex Yoga Mat,18,6,140.4,Irving
+ORD602,CUST2,26-01-2021,Pending,RusticRoots Farmhouse Wall Shelf,16,97,2017.6,Cincinnati
+ORD603,CUST42,10/3/2020,Cancelled,ModernMingle Geometric Throw Pillow,2,41,106.6,Sacramento
+ORD604,CUST33,18-07-2022,Delivered,GlowGlam Radiant Face Serum,18,99,2316.6,Pasadena
+ORD605,CUST82,3/8/2022,Delivered,TechTrend Smart Watch,7,9,81.9,Richmond
+ORD606,CUST75,11/7/2023,Pending,EcoEssence Solar Powered Lantern,4,54,280.8,Sacramento
+ORD607,CUST98,8/12/2022,Delivered,ChicCharm Midi Skirt,17,51,1127.1,London
+ORD608,CUST81,27-07-2024,Pending,RusticRoots Farmhouse Wall Clock,21,99,2702.7,Springfield
+ORD609,CUST20,16-04-2024,Shipped,UrbanVibe Mid-Century Modern Chair,6,76,592.8,New Orleans
+ORD610,CUST74,12/7/2021,Pending,SportSwift Running Shoes,9,66,772.2,New Orleans
+ORD611,CUST14,22-02-2021,Delivered,GlowGlow Illuminating Body Oil,2,56,145.6,Jamaica
+ORD612,CUST100,30-08-2021,Delivered,SmartSync Smart Doorbell,0,52,0,Brooklyn
+ORD613,CUST44,15-09-2020,Cancelled,FitFlex Resistance Bands Set,18,112,2620.8,Baltimore
+ORD614,CUST7,31-10-2023,Delivered,ChicChill Cashmere Scarf,6,91,709.8,Apache Junction
+ORD615,CUST49,19-08-2022,Shipped,TrendTide Distressed Jeans,13,45,760.5,Madison
+ORD616,CUST88,13-08-2023,Delivered,CozyCurl Faux Fur Throw Blanket,6,78,608.4,Las Vegas
+ORD617,CUST36,4/4/2020,Shipped,EcoElegance Bamboo Cutting Board,9,93,1088.1,Cleveland
+ORD618,CUST23,9/3/2023,Delivered,ElectroGlow Tech Headphones,5,101,656.5,Baltimore
+ORD619,CUST91,10/9/2022,Delivered,TechTrend Bluetooth Speaker,23,72,2152.8,Merrifield
+ORD620,CUST26,12/8/2021,Delivered,ModernMingle Abstract Canvas Art,20,100,2600,Boston
+ORD621,CUST27,11/11/2024,Cancelled,EcoEssence Solar Powered Lantern,0,13,0,Saint Louis
+ORD622,CUST6,14-03-2021,Delivered,SmartSync Smart Home Hub,21,47,1283.1,Honolulu
+ORD623,CUST7,21-06-2024,Delivered,ModernMingle Abstract Canvas Art,16,105,2184,Apache Junction
+ORD624,CUST60,9/7/2020,Delivered,ChicChill Cashmere Scarf,11,92,1315.6,Alexandria
+ORD625,CUST92,5/1/2023,Pending,TrendTide Utility Jacket,20,101,2626,Spokane
+ORD626,CUST34,30-01-2022,Shipped,ChicCharm Midi Dress,25,92,2990,Richmond
+ORD627,CUST78,28-03-2023,Cancelled,TechTrend Smart Watch,12,38,592.8,Garden Grove
+ORD628,CUST68,26-03-2020,Delivered,RusticCharm Wooden Wall Art,5,31,201.5,Iowa City
+ORD629,CUST3,4/1/2020,Shipped,CozyCurl Knit Throw Pillow,12,40,624,Long Beach
+ORD630,CUST16,18-02-2021,Cancelled,TrendTide Graphic Tee,9,98,1146.6,Oklahoma City
+ORD631,CUST25,13-12-2023,Cancelled,GlowGlow Exfoliating Body Scrub,21,67,1829.1,Frankfort
+ORD632,CUST47,6/11/2023,Delivered,SmartSync Smart Thermostat,4,111,577.2,Washington
+ORD633,CUST61,22-10-2024,Shipped,GlowGlow Illuminating Body Oil,18,58,1357.2,Lexington
+ORD634,CUST89,17-04-2020,Delivered,TrendTide Distressed Jeans,2,89,231.4,Englewood
+ORD635,CUST13,7/5/2021,Delivered,EcoElegance Bamboo Cutting Board,4,36,187.2,Salt Lake City
+ORD636,CUST82,3/11/2021,Delivered,CozyChic Knit Sweater,1,67,87.1,Richmond
+ORD637,CUST72,29-11-2022,Delivered,FitFlex Yoga Mat,10,11,143,Corpus Christi
+ORD638,CUST19,21-01-2024,Delivered,SportSprint Resistance Bands,17,50,1105,Tampa
+ORD639,CUST2,2/2/2024,Cancelled,EcoEco Reusable Shopping Bag,20,86,2236,Cincinnati
+ORD640,CUST29,8/6/2021,Delivered,GlowGuru Facial Cleansing Brush,19,94,2321.8,Columbus
+ORD641,CUST18,28-09-2022,Shipped,GlowGlam Radiant Face Serum,16,103,2142.4,Washington
+ORD642,CUST8,23-02-2023,Cancelled,GlowGlow Hydrating Face Mask,7,93,846.3,Amarillo
+ORD643,CUST24,13-11-2021,Cancelled,SportPro Agility Ladder,22,80,2288,Dayton
+ORD644,CUST52,13-02-2022,Delivered,UrbanEdge Denim Jacket,2,101,262.6,Indianapolis
+ORD645,CUST43,31-10-2020,Shipped,GlowGlow Nourishing Hair Mask,19,106,2618.2,Saint Louis
+ORD646,CUST46,12/2/2022,Pending,EcoBloom Sustainable Plant Stand,20,20,520,Rochester
+ORD647,CUST5,22-05-2024,Cancelled,UrbanVibe Mid-Century Modern Chair,23,13,388.7,Springfield
+ORD648,CUST45,1/10/2022,Shipped,SportSprint Speed Jump Rope,23,15,448.5,Greenville
+ORD649,CUST48,18-08-2020,Shipped,PowerPulse Portable Power Bank,12,34,530.4,San Jose
+ORD650,CUST63,12/10/2023,Delivered,GlowGlow Lip Plumping Gloss,14,103,1874.6,Charlotte
+ORD651,CUST30,3/1/2023,Pending,UrbanVibe Industrial Floor Lamp,14,116,2111.2,Corpus Christi
+ORD652,CUST41,16-07-2021,Cancelled,EcoEco Stainless Steel Water Bottle,8,28,291.2,Orange
+ORD653,CUST72,9/7/2023,Shipped,SportPro Agility Ladder,20,94,2444,Corpus Christi
+ORD654,CUST60,17-06-2023,Shipped,SportStrike Boxing Gloves,24,48,1497.6,Alexandria
+ORD655,CUST69,1/2/2020,Delivered,CozyChic Knit Sweater,22,85,2431,Garden Grove
+ORD656,CUST77,8/2/2023,Pending,RetroRevive Vintage Record Player,11,86,1229.8,Corpus Christi
+ORD657,CUST93,10/10/2024,Cancelled,GlowGlam Radiant Face Serum,24,11,343.2,Long Beach
+ORD658,CUST11,28-12-2021,Delivered,SmartSync Smart Home Hub,9,31,362.7,Sacramento
+ORD659,CUST85,9/2/2022,Delivered,SportSprint Speed Jump Rope,22,101,2888.6,Greensboro
+ORD660,CUST24,30-01-2023,Delivered,SportSwift Running Shoes,3,5,19.5,Dayton
+ORD661,CUST64,6/8/2020,Shipped,TechTrend Wireless Earbuds,25,84,2730,Salt Lake City
+ORD662,CUST39,16-08-2022,Shipped,GlowGuru Facial Cleansing Brush,1,90,117,Lakeland
+ORD663,CUST70,18-06-2020,Shipped,EcoEssence Solar Powered Lantern,14,8,145.6,Nashville
+ORD664,CUST66,13-07-2022,Delivered,RusticRoots Farmhouse Wall Clock,3,16,62.4,Charleston
+ORD665,CUST53,31-10-2024,Delivered,ChicCharm Midi Skirt,1,79,102.7,Birmingham
+ORD666,CUST27,24-08-2024,Cancelled,TrendTide Graphic Tee,16,78,1622.4,Saint Louis
+ORD667,CUST80,20-09-2021,Delivered,ChicChill Cashmere Scarf,7,97,882.7,Irving
+ORD668,CUST50,29-03-2021,Delivered,CozyCurl Knit Throw Pillow,9,60,702,Boston
+ORD669,CUST14,3/2/2023,Delivered,RusticCharm Wooden Wall Art,18,69,1614.6,Jamaica
+ORD670,CUST88,18-12-2024,Shipped,GlowGoddess Highlighter Palette,6,107,834.6,Las Vegas
+ORD671,CUST31,14-08-2021,Shipped,SportSprint Resistance Bands,15,30,585,Tampa
+ORD672,CUST56,24-05-2024,Delivered,ElectroGlow Tech Headphones,5,24,156,Boynton Beach
+ORD673,CUST73,4/8/2023,Shipped,CozyCurl Faux Fur Throw Blanket,24,63,1965.6,Everett
+ORD674,CUST13,11/6/2022,Shipped,FitFlex Yoga Mat,14,112,2038.4,Salt Lake City
+ORD675,CUST28,24-10-2022,Delivered,PowerPulse Fitness Tracker,14,67,1219.4,Raleigh
+ORD676,CUST38,22-11-2024,Pending,SmartSync Smart Thermostat,11,13,185.9,Joliet
+ORD677,CUST6,18-04-2020,Pending,GlowGlow Exfoliating Body Scrub,5,71,461.5,Honolulu
+ORD678,CUST17,7/5/2023,Delivered,EcoBloom Sustainable Plant Stand,13,48,811.2,Boynton Beach
+ORD679,CUST22,10/8/2020,Pending,TechTrend Smart Watch,12,49,764.4,Greensboro
+ORD680,CUST43,20-01-2020,Delivered,TrendTide Distressed Jeans,0,14,0,Saint Louis
+ORD681,CUST9,27-10-2024,Delivered,GlowGlow Hydrating Face Mask,18,95,2223,Rochester
+ORD682,CUST15,16-04-2020,Delivered,PowerPulse Wireless Charging Pad,17,36,795.6,New Hyde Park
+ORD683,CUST30,3/5/2020,Delivered,EcoEssence Solar Powered Lantern,12,43,670.8,Corpus Christi
+ORD684,CUST96,5/5/2020,Pending,SmartSync Smart Doorbell,21,85,2320.5,Tacoma
+ORD685,CUST81,10/5/2023,Delivered,PowerPulse Wireless Charging Pad,18,63,1474.2,Springfield
+ORD686,CUST92,10/7/2022,Shipped,EcoBloom Sustainable Plant Stand,15,39,760.5,Spokane
+ORD687,CUST47,29-07-2023,Pending,TrendTide Distressed Jeans,2,13,33.8,Washington
+ORD688,CUST20,13-07-2024,Delivered,SmartSync Smart Home Hub,25,75,2437.5,New Orleans
+ORD689,CUST50,18-07-2021,Cancelled,GlowGoddess Highlighter Palette,2,7,18.2,Boston
+ORD690,CUST27,29-06-2022,Cancelled,CozyCurl Knit Throw Pillow,7,15,136.5,Saint Louis
+ORD691,CUST10,11/4/2024,Delivered,PowerPulse Portable Power Bank,3,74,288.6,New Orleans
+ORD692,CUST16,26-08-2024,Shipped,TechTrend Bluetooth Speaker,24,52,1622.4,Oklahoma City
+ORD693,CUST5,17-03-2021,Delivered,ChicChill Cashmere Scarf,9,65,760.5,Springfield
+ORD694,CUST90,21-03-2022,Delivered,ChicCharm Midi Dress,14,33,600.6,Peoria
+ORD695,CUST21,1/10/2020,Cancelled,RusticRoots Farmhouse Wall Shelf,0,32,0,Wichita
+ORD696,CUST42,12/7/2022,Delivered,PowerPulse Fitness Tracker,25,69,2242.5,Sacramento
+ORD697,CUST59,13-10-2024,Delivered,UrbanEdge Denim Jacket,25,66,2145,San Francisco
+ORD698,CUST17,16-02-2022,Shipped,SportPro Agility Ladder,15,47,916.5,Boynton Beach
+ORD699,CUST13,15-07-2022,Pending,GlowGlow Illuminating Body Oil,2,13,33.8,Salt Lake City
+ORD700,CUST78,26-03-2021,Cancelled,FitFlex Yoga Mat,16,68,1414.4,Garden Grove
+ORD701,CUST54,18-12-2020,Delivered,SportSwift Running Shoes,10,37,481,Tucson
+ORD702,CUST46,18-06-2020,Shipped,SportSprint Resistance Bands,18,97,2269.8,Rochester
+ORD703,CUST80,30-07-2024,Shipped,TechTrend Smart Watch,5,39,253.5,Irving
+ORD704,CUST29,2/1/2024,Pending,GlowGlam Radiant Face Serum,4,48,249.6,Columbus
+ORD705,CUST89,16-05-2022,Pending,EcoEco Reusable Shopping Bag,6,28,218.4,Englewood
+ORD706,CUST70,9/4/2020,Delivered,EcoElegance Bamboo Cutting Board,25,13,422.5,Nashville
+ORD707,CUST77,27-04-2020,Pending,EcoEco Stainless Steel Water Bottle,17,34,751.4,Corpus Christi
+ORD708,CUST37,5/3/2022,Delivered,RusticRoots Farmhouse Wall Clock,1,28,36.4,Elmira
+ORD709,CUST69,25-10-2023,Delivered,TrendTide Utility Jacket,13,76,1284.4,Garden Grove
+ORD710,CUST74,17-04-2021,Shipped,ChicCharm Midi Skirt,18,24,561.6,New Orleans
+ORD711,CUST65,28-07-2024,Shipped,SportSprint Speed Jump Rope,0,84,0,Tampa
+ORD712,CUST57,7/6/2022,Pending,TrendTide Graphic Tee,7,20,182,New Orleans
+ORD713,CUST98,1/3/2022,Pending,CozyChic Knit Sweater,16,99,2059.2,London
+ORD714,CUST21,16-05-2020,Delivered,CozyCurl Faux Fur Throw Blanket,23,85,2541.5,Wichita
+ORD715,CUST54,21-06-2020,Delivered,GlowGlam Radiant Face Serum,3,91,354.9,Tucson
+ORD716,CUST70,21-06-2021,Pending,GlowGlow Lip Plumping Gloss,17,34,751.4,Nashville
+ORD717,CUST71,18-08-2024,Cancelled,FitFlex Resistance Bands Set,8,8,83.2,El Paso
+ORD718,CUST84,2/10/2024,Cancelled,GlowGlow Nourishing Hair Mask,4,117,608.4,Pinellas Park
+ORD719,CUST51,14-09-2023,Delivered,ChicCharm Midi Skirt,1,95,123.5,Albany
+ORD720,CUST3,26-10-2022,Delivered,SportPro Agility Ladder,6,96,748.8,Long Beach
+ORD721,CUST14,13-09-2020,Shipped,TrendTide Graphic Tee,1,99,128.7,Jamaica
+ORD722,CUST79,5/3/2021,Shipped,ModernMingle Geometric Throw Pillow,18,60,1404,Kansas City
+ORD723,CUST77,13-03-2024,Delivered,ChicChill Cashmere Scarf,14,79,1437.8,Corpus Christi
+ORD724,CUST99,2/2/2022,Shipped,SportSprint Resistance Bands,8,34,353.6,Winston Salem
+ORD725,CUST52,30-11-2020,Pending,EcoEssence Solar Powered Lantern,14,85,1547,Indianapolis
+ORD726,CUST63,18-04-2022,Delivered,EcoElegance Bamboo Cutting Board,19,54,1333.8,Charlotte
+ORD727,CUST68,4/6/2023,Delivered,TrendTide Utility Jacket,14,14,254.8,Iowa City
+ORD728,CUST88,27-05-2021,Delivered,RusticRoots Farmhouse Wall Shelf,6,18,140.4,Las Vegas
+ORD729,CUST83,30-10-2021,Pending,TechTrend Bluetooth Speaker,1,71,92.3,North Las Vegas
+ORD730,CUST81,7/11/2022,Delivered,TechTrend Wireless Earbuds,0,27,0,Springfield
+ORD731,CUST33,21-03-2020,Pending,GlowGlow Illuminating Body Oil,12,27,421.2,Pasadena
+ORD732,CUST6,27-03-2023,Shipped,ChicCharm Midi Dress,10,110,1430,Honolulu
+ORD733,CUST98,24-06-2022,Delivered,SportSwift Running Shoes,10,100,1300,London
+ORD734,CUST7,8/2/2020,Pending,UrbanVibe Mid-Century Modern Chair,12,79,1232.4,Apache Junction
+ORD735,CUST60,27-03-2021,Delivered,RetroRevive Vintage Record Player,3,82,319.8,Alexandria
+ORD736,CUST62,23-11-2021,Pending,SmartSync Smart Thermostat,0,54,0,Wilkes Barre
+ORD737,CUST22,4/2/2020,Shipped,PowerPulse Portable Charger,13,43,726.7,Greensboro
+ORD738,CUST26,31-10-2023,Delivered,EcoEco Reusable Shopping Bag,23,9,269.1,Boston
+ORD739,CUST69,26-12-2020,Delivered,EcoBloom Sustainable Plant Stand,0,5,0,Garden Grove
+ORD740,CUST96,1/12/2023,Cancelled,SportStrike Boxing Gloves,1,60,78,Tacoma
+ORD741,CUST16,8/9/2024,Delivered,CozyCurl Knit Throw Pillow,25,68,2210,Oklahoma City
+ORD742,CUST28,19-05-2024,Delivered,UrbanVibe Industrial Floor Lamp,1,98,127.4,Raleigh
+ORD743,CUST39,14-10-2023,Delivered,SportSprint Speed Jump Rope,5,120,780,Lakeland
+ORD744,CUST100,28-03-2022,Delivered,TrendTide Distressed Jeans,24,36,1123.2,Brooklyn
+ORD745,CUST44,4/6/2021,Cancelled,UrbanEdge Denim Jacket,7,88,800.8,Baltimore
+ORD746,CUST89,24-07-2021,Shipped,SmartSync Smart Thermostat,1,80,104,Englewood
+ORD747,CUST26,5/11/2023,Delivered,CozyCurl Knit Throw Pillow,25,9,292.5,Boston
+ORD748,CUST25,1/12/2022,Delivered,TechTrend Smart Watch,10,102,1326,Frankfort
+ORD749,CUST11,17-03-2021,Pending,EcoBloom Sustainable Plant Stand,25,86,2795,Sacramento
+ORD750,CUST57,21-02-2024,Cancelled,TechTrend Bluetooth Speaker,7,28,254.8,New Orleans
+ORD751,CUST69,18-10-2024,Shipped,SportSprint Speed Jump Rope,21,80,2184,Garden Grove
+ORD752,CUST65,21-08-2020,Shipped,SportSwift Running Shoes,5,37,240.5,Tampa
+ORD753,CUST60,21-05-2023,Shipped,GlowGlam Radiant Face Serum,0,68,0,Alexandria
+ORD754,CUST18,16-09-2021,Delivered,UrbanVibe Mid-Century Modern Chair,11,72,1029.6,Washington
+ORD755,CUST78,1/9/2022,Delivered,SmartSync Smart Doorbell,1,65,84.5,Garden Grove
+ORD756,CUST86,9/3/2023,Delivered,SmartSync Smart Home Hub,24,9,280.8,Detroit
+ORD757,CUST29,2/3/2024,Shipped,TrendTide Distressed Jeans,7,110,1001,Columbus
+ORD758,CUST80,22-03-2022,Delivered,ChicChill Cashmere Scarf,24,98,3057.6,Irving
+ORD759,CUST16,30-07-2024,Delivered,FitFlex Resistance Bands Set,1,44,57.2,Oklahoma City
+ORD760,CUST59,1/10/2023,Pending,UrbanVibe Industrial Floor Lamp,4,92,478.4,San Francisco
+ORD761,CUST32,2/3/2020,Pending,RusticCharm Wooden Wall Art,18,43,1006.2,San Francisco
+ORD762,CUST33,24-07-2020,Delivered,CozyChic Knit Sweater,0,54,0,Pasadena
+ORD763,CUST67,15-03-2022,Pending,SportStrike Boxing Gloves,9,6,70.2,Corona
+ORD764,CUST23,7/12/2024,Pending,RusticRoots Farmhouse Wall Shelf,22,47,1344.2,Baltimore
+ORD765,CUST53,2/8/2020,Shipped,FitFlex Yoga Mat,9,96,1123.2,Birmingham
+ORD766,CUST84,16-05-2023,Delivered,TrendTide Graphic Tee,9,57,666.9,Pinellas Park
+ORD767,CUST90,1/11/2024,Delivered,EcoEco Stainless Steel Water Bottle,18,86,2012.4,Peoria
+ORD768,CUST48,6/9/2021,Shipped,PowerPulse Wireless Charging Pad,4,64,332.8,San Jose
+ORD769,CUST97,6/9/2020,Delivered,ElectroGlow Tech Headphones,20,118,3068,Seattle
+ORD770,CUST42,29-07-2024,Shipped,EcoElegance Bamboo Cutting Board,12,59,920.4,Sacramento
+ORD771,CUST36,29-03-2020,Delivered,RusticRoots Farmhouse Wall Clock,25,119,3867.5,Cleveland
+ORD772,CUST51,22-03-2021,Delivered,SportSprint Resistance Bands,0,65,0,Albany
+ORD773,CUST64,22-08-2020,Delivered,GlowGlow Illuminating Body Oil,3,33,128.7,Salt Lake City
+ORD774,CUST5,16-01-2020,Shipped,EcoEssence Solar Powered Lantern,21,37,1010.1,Springfield
+ORD775,CUST100,24-09-2020,Delivered,CozyCurl Faux Fur Throw Blanket,14,15,273,Brooklyn
+ORD776,CUST72,3/5/2020,Shipped,RusticCharm Wooden Wall Art,5,85,552.5,Corpus Christi
+ORD777,CUST32,5/10/2020,Delivered,SportPro Agility Ladder,20,41,1066,San Francisco
+ORD778,CUST71,23-02-2021,Cancelled,RusticRoots Farmhouse Wall Shelf,20,89,2314,El Paso
+ORD779,CUST41,10/8/2020,Delivered,FitFlex Yoga Mat,16,97,2017.6,Orange
+ORD780,CUST27,13-12-2021,Delivered,RusticRoots Farmhouse Wall Clock,13,81,1368.9,Saint Louis
+ORD781,CUST2,28-04-2023,Delivered,PowerPulse Portable Charger,6,64,499.2,Cincinnati
+ORD782,CUST62,17-01-2023,Shipped,GlowGlow Nourishing Hair Mask,6,31,241.8,Wilkes Barre
+ORD783,CUST35,14-07-2023,Shipped,PowerPulse Fitness Tracker,16,55,1144,Young America
+ORD784,CUST76,12/7/2022,Delivered,ChicCharm Midi Dress,24,50,1560,Fargo
+ORD785,CUST21,7/6/2022,Shipped,GlowGlow Exfoliating Body Scrub,9,63,737.1,Wichita
+ORD786,CUST4,13-05-2022,Pending,EcoElegance Bamboo Cutting Board,5,15,97.5,Odessa
+ORD787,CUST63,8/10/2023,Delivered,EcoEco Reusable Shopping Bag,16,23,478.4,Charlotte
+ORD788,CUST95,29-04-2021,Delivered,ModernMingle Geometric Throw Pillow,4,54,280.8,Cincinnati
+ORD789,CUST91,9/3/2024,Delivered,CozyCurl Knit Throw Pillow,0,5,0,Merrifield
+ORD790,CUST34,3/2/2021,Pending,GlowGlow Hydrating Face Mask,5,28,182,Richmond
+ORD791,CUST44,30-12-2024,Shipped,FitFlex Resistance Bands Set,9,33,386.1,Baltimore
+ORD792,CUST61,29-04-2022,Pending,PowerPulse Portable Power Bank,11,19,271.7,Lexington
+ORD793,CUST7,20-10-2021,Delivered,SportSwift Running Shoes,16,90,1872,Apache Junction
+ORD794,CUST78,12/12/2022,Pending,ElectroGlow Tech Headphones,18,39,912.6,Garden Grove
+ORD795,CUST66,13-02-2024,Cancelled,SportSprint Resistance Bands,11,66,943.8,Charleston
+ORD796,CUST11,15-11-2024,Shipped,RetroRevive Vintage Record Player,12,106,1653.6,Sacramento
+ORD797,CUST86,19-06-2020,Shipped,TrendTide Distressed Jeans,18,32,748.8,Detroit
+ORD798,CUST29,17-01-2023,Shipped,SmartSync Smart Home Hub,5,62,403,Columbus
+ORD799,CUST16,26-12-2020,Delivered,GlowGlow Lip Plumping Gloss,9,79,924.3,Oklahoma City
+ORD800,CUST54,26-11-2023,Cancelled,EcoEssence Solar Powered Lantern,8,107,1112.8,Tucson
+ORD801,CUST50,25-07-2023,Cancelled,GlowGlam Radiant Face Serum,23,81,2421.9,Boston
+ORD802,CUST5,27-03-2023,Shipped,ModernMingle Abstract Canvas Art,16,84,1747.2,Springfield
+ORD803,CUST42,17-10-2023,Shipped,TechTrend Wireless Earbuds,13,106,1791.4,Sacramento
+ORD804,CUST48,27-03-2021,Delivered,TrendTide Utility Jacket,23,69,2063.1,San Jose
+ORD805,CUST20,29-08-2024,Delivered,CozyCurl Faux Fur Throw Blanket,20,23,598,New Orleans
+ORD806,CUST94,23-01-2022,Delivered,SportSprint Speed Jump Rope,15,15,292.5,Saint Louis
+ORD807,CUST72,23-06-2020,Delivered,SportSprint Speed Jump Rope,13,120,2028,Corpus Christi
+ORD808,CUST96,14-06-2020,Shipped,TechTrend Smart Watch,10,53,689,Tacoma
+ORD809,CUST28,14-02-2024,Pending,GlowGlow Exfoliating Body Scrub,6,39,304.2,Raleigh
+ORD810,CUST70,15-12-2022,Delivered,EcoEco Reusable Shopping Bag,5,9,58.5,Nashville
+ORD811,CUST73,21-03-2024,Shipped,CozyCurl Knit Throw Pillow,25,69,2242.5,Everett
+ORD812,CUST98,15-04-2022,Delivered,UrbanVibe Industrial Floor Lamp,10,60,780,London
+ORD813,CUST91,28-03-2024,Pending,PowerPulse Portable Charger,14,19,345.8,Merrifield
+ORD814,CUST13,21-09-2020,Pending,EcoEco Stainless Steel Water Bottle,15,69,1345.5,Salt Lake City
+ORD815,CUST34,1/2/2023,Shipped,GlowGoddess Highlighter Palette,20,57,1482,Richmond
+ORD816,CUST93,3/3/2023,Pending,SmartStream Smart TV,3,8,31.2,Long Beach
+ORD817,CUST44,8/4/2023,Shipped,TechTrend Wireless Earbuds,9,11,128.7,Baltimore
+ORD818,CUST40,11/1/2022,Shipped,RusticRoots Farmhouse Wall Shelf,11,5,71.5,Annapolis
+ORD819,CUST32,10/10/2020,Shipped,ElectroGlow Tech Headphones,6,23,179.4,San Francisco
+ORD820,CUST64,20-11-2021,Delivered,UrbanEdge Denim Jacket,4,53,275.6,Salt Lake City
+ORD821,CUST82,6/9/2022,Delivered,ChicChill Cashmere Scarf,9,69,807.3,Richmond
+ORD822,CUST67,4/2/2020,Delivered,PowerPulse Wireless Charging Pad,11,90,1287,Corona
+ORD823,CUST51,6/8/2020,Pending,TrendTide Distressed Jeans,17,86,1900.6,Albany
+ORD824,CUST35,30-07-2021,Shipped,GlowGlow Hydrating Face Mask,9,22,257.4,Young America
+ORD825,CUST43,7/10/2024,Delivered,CozyCurl Faux Fur Throw Blanket,15,69,1345.5,Saint Louis
+ORD826,CUST78,1/9/2024,Delivered,RetroRevive Vintage Record Player,1,82,106.6,Garden Grove
+ORD827,CUST66,17-11-2020,Delivered,ModernMingle Abstract Canvas Art,22,26,743.6,Charleston
+ORD828,CUST11,1/2/2023,Delivered,GlowGlam Radiant Face Serum,22,117,3346.2,Sacramento
+ORD829,CUST52,11/10/2022,Delivered,CozyChic Knit Sweater,1,63,81.9,Indianapolis
+ORD830,CUST25,30-12-2023,Delivered,FitFlex Yoga Mat,5,55,357.5,Frankfort
+ORD831,CUST23,6/12/2022,Delivered,SportStrike Boxing Gloves,8,26,270.4,Baltimore
+ORD832,CUST100,16-01-2021,Delivered,EcoEssence Solar Powered Lantern,5,54,351,Brooklyn
+ORD833,CUST12,21-04-2022,Delivered,EcoBloom Sustainable Plant Stand,2,88,228.8,Columbia
+ORD834,CUST94,28-10-2024,Delivered,TrendTide Graphic Tee,20,21,546,Saint Louis
+ORD835,CUST3,18-05-2021,Shipped,GlowGlow Illuminating Body Oil,3,75,292.5,Long Beach
+ORD836,CUST86,26-08-2021,Delivered,SmartSync Smart Doorbell,5,46,299,Detroit
+ORD837,CUST69,7/5/2022,Delivered,GlowGuru Facial Cleansing Brush,6,92,717.6,Garden Grove
+ORD838,CUST6,19-03-2024,Pending,SmartSync Smart Thermostat,3,64,249.6,Honolulu
+ORD839,CUST19,9/6/2021,Shipped,SmartSync Smart Doorbell,1,17,22.1,Tampa
+ORD840,CUST2,30-03-2022,Pending,PowerPulse Portable Charger,6,113,881.4,Cincinnati
+ORD841,CUST1,9/8/2022,Cancelled,TrendTide Utility Jacket,19,23,568.1,Vancouver
+ORD842,CUST71,27-10-2024,Delivered,PowerPulse Fitness Tracker,1,73,94.9,El Paso
+ORD843,CUST5,5/12/2020,Pending,RetroRevive Vintage Record Player,6,37,288.6,Springfield
+ORD844,CUST56,20-09-2023,Shipped,TrendTide Graphic Tee,16,63,1310.4,Boynton Beach
+ORD845,CUST33,17-03-2024,Pending,ChicCharm Midi Dress,13,100,1690,Pasadena
+ORD846,CUST57,13-02-2021,Shipped,EcoEssence Solar Powered Lantern,10,62,806,New Orleans
+ORD847,CUST67,29-02-2020,Pending,EcoEco Stainless Steel Water Bottle,12,105,1638,Corona
+ORD848,CUST31,26-05-2023,Delivered,ModernMingle Geometric Throw Pillow,9,68,795.6,Tampa
+ORD849,CUST35,9/8/2023,Shipped,SmartStream Smart TV,15,109,2125.5,Young America
+ORD850,CUST63,25-01-2024,Delivered,EcoElegance Bamboo Cutting Board,22,92,2631.2,Charlotte
+ORD851,CUST79,26-05-2020,Cancelled,FitFlex Resistance Bands Set,4,50,260,Kansas City
+ORD852,CUST61,30-12-2021,Shipped,CozyCurl Faux Fur Throw Blanket,21,94,2566.2,Lexington
+ORD853,CUST39,8/4/2023,Cancelled,TechTrend Smart Watch,9,50,585,Lakeland
+ORD854,CUST41,28-02-2020,Pending,ChicChill Cashmere Scarf,11,43,614.9,Orange
+ORD855,CUST97,25-12-2023,Pending,SmartSync Smart Home Hub,18,36,842.4,Seattle
+ORD856,CUST92,9/4/2024,Cancelled,ChicCharm Midi Skirt,3,100,390,Spokane
+ORD857,CUST77,9/1/2020,Pending,TechTrend Bluetooth Speaker,8,115,1196,Corpus Christi
+ORD858,CUST12,15-10-2020,Shipped,EcoEco Reusable Shopping Bag,10,54,702,Columbia
+ORD859,CUST42,18-10-2021,Shipped,CozyChic Knit Sweater,8,102,1060.8,Sacramento
+ORD860,CUST4,20-12-2024,Shipped,UrbanEdge Denim Jacket,22,110,3146,Odessa
+ORD861,CUST81,13-04-2023,Pending,ElectroGlow Tech Headphones,21,45,1228.5,Springfield
+ORD862,CUST30,1/12/2020,Shipped,GlowGoddess Highlighter Palette,5,8,52,Corpus Christi
+ORD863,CUST83,6/10/2023,Delivered,RusticCharm Wooden Wall Art,18,14,327.6,North Las Vegas
+ORD864,CUST55,4/7/2020,Pending,PowerPulse Wireless Charging Pad,15,15,292.5,Dallas
+ORD865,CUST18,15-10-2020,Delivered,SportPro Agility Ladder,16,119,2475.2,Washington
+ORD866,CUST46,27-12-2020,Pending,GlowGlow Nourishing Hair Mask,25,54,1755,Rochester
+ORD867,CUST26,10/8/2024,Cancelled,GlowGuru Facial Cleansing Brush,23,81,2421.9,Boston
+ORD868,CUST45,19-09-2022,Pending,GlowGlow Hydrating Face Mask,16,26,540.8,Greenville
+ORD869,CUST4,22-09-2022,Delivered,ModernMingle Geometric Throw Pillow,25,46,1495,Odessa
+ORD870,CUST95,1/9/2021,Delivered,CozyChic Knit Sweater,20,40,1040,Cincinnati
+ORD871,CUST87,6/7/2023,Delivered,PowerPulse Fitness Tracker,5,88,572,Laurel
+ORD872,CUST22,5/12/2023,Delivered,GlowGlam Radiant Face Serum,14,74,1346.8,Greensboro
+ORD873,CUST92,30-11-2023,Pending,GlowGlow Lip Plumping Gloss,25,25,812.5,Spokane
+ORD874,CUST73,5/9/2021,Delivered,SmartSync Smart Thermostat,4,104,540.8,Everett
+ORD875,CUST78,9/1/2022,Cancelled,TechTrend Smart Watch,21,43,1173.9,Garden Grove
+ORD876,CUST70,7/3/2024,Delivered,GlowGlow Exfoliating Body Scrub,18,51,1193.4,Nashville
+ORD877,CUST90,5/12/2022,Delivered,EcoElegance Bamboo Cutting Board,4,48,249.6,Peoria
+ORD878,CUST9,12/9/2021,Shipped,SportPro Agility Ladder,0,60,0,Rochester
+ORD879,CUST53,16-12-2023,Shipped,SportSprint Speed Jump Rope,4,117,608.4,Birmingham
+ORD880,CUST40,4/10/2024,Cancelled,EcoEco Reusable Shopping Bag,8,82,852.8,Annapolis
+ORD881,CUST19,13-08-2022,Shipped,EcoEco Stainless Steel Water Bottle,2,28,72.8,Tampa
+ORD882,CUST63,15-03-2022,Shipped,UrbanVibe Mid-Century Modern Chair,18,92,2152.8,Charlotte
+ORD883,CUST16,3/3/2021,Delivered,SmartSync Smart Doorbell,20,118,3068,Oklahoma City
+ORD884,CUST6,18-01-2020,Shipped,ElectroGlow Tech Headphones,23,14,418.6,Honolulu
+ORD885,CUST46,27-08-2023,Shipped,TechTrend Bluetooth Speaker,14,86,1565.2,Rochester
+ORD886,CUST29,20-02-2020,Delivered,SportSwift Running Shoes,6,5,39,Columbus
+ORD887,CUST56,14-09-2024,Delivered,CozyCurl Faux Fur Throw Blanket,25,81,2632.5,Boynton Beach
+ORD888,CUST80,7/9/2024,Shipped,RusticRoots Farmhouse Wall Shelf,9,43,503.1,Irving
+ORD889,CUST3,15-07-2023,Cancelled,ModernMingle Abstract Canvas Art,9,113,1322.1,Long Beach
+ORD890,CUST62,26-12-2023,Pending,SportSprint Resistance Bands,4,32,166.4,Wilkes Barre
+ORD891,CUST59,16-08-2022,Shipped,PowerPulse Wireless Charging Pad,0,27,0,San Francisco
+ORD892,CUST10,9/1/2022,Delivered,TrendTide Graphic Tee,22,94,2688.4,New Orleans
+ORD893,CUST89,9/5/2023,Pending,UrbanVibe Industrial Floor Lamp,11,95,1358.5,Englewood
+ORD894,CUST69,12/7/2020,Delivered,SmartSync Smart Home Hub,17,93,2055.3,Garden Grove
+ORD895,CUST67,13-09-2020,Shipped,GlowGoddess Highlighter Palette,17,71,1569.1,Corona
+ORD896,CUST100,2/10/2023,Shipped,RusticRoots Farmhouse Wall Clock,0,33,0,Brooklyn
+ORD897,CUST58,30-09-2022,Shipped,EcoEssence Solar Powered Lantern,1,25,32.5,Washington
+ORD898,CUST17,9/8/2020,Pending,ChicCharm Midi Dress,22,84,2402.4,Boynton Beach
+ORD899,CUST26,18-08-2022,Pending,FitFlex Resistance Bands Set,1,52,67.6,Boston
+ORD900,CUST45,15-05-2024,Cancelled,EcoEssence Solar Powered Lantern,15,31,604.5,Greenville
+ORD901,CUST63,10/5/2021,Delivered,EcoEco Stainless Steel Water Bottle,13,60,1014,Charlotte
+ORD902,CUST75,7/1/2021,Delivered,RetroRevive Vintage Record Player,2,63,163.8,Sacramento
+ORD903,CUST13,18-08-2020,Cancelled,FitFlex Resistance Bands Set,18,92,2152.8,Salt Lake City
+ORD904,CUST79,25-10-2022,Delivered,SportStrike Boxing Gloves,4,85,442,Kansas City
+ORD905,CUST62,6/6/2022,Delivered,TrendTide Graphic Tee,4,77,400.4,Wilkes Barre
+ORD906,CUST10,5/12/2021,Cancelled,GlowGlow Illuminating Body Oil,14,54,982.8,New Orleans
+ORD907,CUST50,20-10-2021,Delivered,FitFlex Yoga Mat,21,40,1092,Boston
+ORD908,CUST15,14-11-2022,Cancelled,SportSprint Speed Jump Rope,5,61,396.5,New Hyde Park
+ORD909,CUST26,15-06-2021,Pending,TechTrend Bluetooth Speaker,20,70,1820,Boston
+ORD910,CUST21,20-08-2020,Shipped,ModernMingle Abstract Canvas Art,23,69,2063.1,Wichita
+ORD911,CUST38,3/6/2022,Delivered,CozyCurl Faux Fur Throw Blanket,20,75,1950,Joliet
+ORD912,CUST46,13-06-2021,Shipped,PowerPulse Wireless Charging Pad,14,10,182,Rochester
+ORD913,CUST4,6/12/2024,Cancelled,TechTrend Wireless Earbuds,8,98,1019.2,Odessa
+ORD914,CUST58,7/5/2023,Delivered,CozyChic Knit Sweater,7,82,746.2,Washington
+ORD915,CUST54,4/9/2021,Delivered,UrbanVibe Industrial Floor Lamp,21,110,3003,Tucson
+ORD916,CUST42,24-10-2021,Pending,TrendTide Utility Jacket,8,76,790.4,Sacramento
+ORD917,CUST6,4/8/2024,Pending,EcoBloom Sustainable Plant Stand,7,43,391.3,Honolulu
+ORD918,CUST19,4/2/2022,Pending,GlowGlow Lip Plumping Gloss,9,95,1111.5,Tampa
+ORD919,CUST70,11/7/2021,Delivered,RusticRoots Farmhouse Wall Shelf,17,92,2033.2,Nashville
+ORD920,CUST34,27-11-2024,Delivered,GlowGlow Nourishing Hair Mask,11,60,858,Richmond
+ORD921,CUST37,18-08-2020,Delivered,ModernMingle Geometric Throw Pillow,9,78,912.6,Elmira
+ORD922,CUST68,29-10-2024,Shipped,UrbanEdge Denim Jacket,13,92,1554.8,Iowa City
+ORD923,CUST84,22-11-2022,Delivered,ChicChill Cashmere Scarf,21,54,1474.2,Pinellas Park
+ORD924,CUST22,31-08-2023,Shipped,ElectroGlow Tech Headphones,21,49,1337.7,Greensboro
+ORD925,CUST24,11/9/2021,Delivered,SportPro Agility Ladder,7,115,1046.5,Dayton
+ORD926,CUST23,15-02-2021,Shipped,GlowGlow Hydrating Face Mask,5,64,416,Baltimore
+ORD927,CUST5,11/12/2020,Delivered,GlowGoddess Highlighter Palette,12,84,1310.4,Springfield
+ORD928,CUST100,30-08-2021,Delivered,PowerPulse Portable Power Bank,10,44,572,Brooklyn
+ORD929,CUST67,28-08-2024,Delivered,SportSwift Running Shoes,1,75,97.5,Corona
+ORD930,CUST61,20-12-2020,Delivered,GlowGlow Exfoliating Body Scrub,5,22,143,Lexington
+ORD931,CUST45,10/3/2023,Pending,SmartSync Smart Doorbell,17,25,552.5,Greenville
+ORD932,CUST98,23-05-2020,Delivered,ModernMingle Abstract Canvas Art,11,19,271.7,London
+ORD933,CUST100,11/11/2020,Pending,EcoElegance Bamboo Cutting Board,11,79,1129.7,Brooklyn
+ORD934,CUST84,29-03-2023,Delivered,RusticCharm Wooden Wall Art,3,119,464.1,Pinellas Park
+ORD935,CUST89,21-07-2022,Pending,TechTrend Wireless Earbuds,15,77,1501.5,Englewood
+ORD936,CUST81,6/7/2022,Delivered,ChicCharm Midi Dress,10,39,507,Springfield
+ORD937,CUST28,15-02-2024,Pending,CozyCurl Faux Fur Throw Blanket,21,106,2893.8,Raleigh
+ORD938,CUST92,25-10-2020,Pending,UrbanEdge Denim Jacket,0,120,0,Spokane
+ORD939,CUST7,6/4/2020,Cancelled,GlowGlam Radiant Face Serum,11,7,100.1,Apache Junction
+ORD940,CUST83,18-11-2022,Shipped,TechTrend Bluetooth Speaker,13,89,1504.1,North Las Vegas
+ORD941,CUST24,31-08-2023,Delivered,EcoEco Stainless Steel Water Bottle,8,103,1071.2,Dayton
+ORD942,CUST34,22-08-2023,Cancelled,PowerPulse Fitness Tracker,13,70,1183,Richmond
+ORD943,CUST88,6/11/2021,Delivered,GlowGoddess Highlighter Palette,6,59,460.2,Las Vegas
+ORD944,CUST59,17-02-2020,Shipped,TechTrend Smart Watch,13,70,1183,San Francisco
+ORD945,CUST76,27-08-2023,Shipped,SportSprint Speed Jump Rope,23,76,2272.4,Fargo
+ORD946,CUST93,13-01-2024,Cancelled,GlowGuru Facial Cleansing Brush,12,17,265.2,Long Beach
+ORD947,CUST55,12/6/2020,Pending,GlowGlow Lip Plumping Gloss,16,68,1414.4,Dallas
+ORD948,CUST46,18-11-2024,Delivered,GlowGlow Hydrating Face Mask,18,105,2457,Rochester
+ORD949,CUST61,30-06-2023,Shipped,PowerPulse Portable Power Bank,1,108,140.4,Lexington
+ORD950,CUST31,30-03-2022,Delivered,SportSprint Resistance Bands,24,97,3026.4,Tampa
+ORD951,CUST62,22-03-2024,Cancelled,PowerPulse Wireless Charging Pad,22,72,2059.2,Wilkes Barre
+ORD952,CUST47,22-08-2022,Pending,SmartSync Smart Thermostat,23,100,2990,Washington
+ORD953,CUST27,18-07-2020,Delivered,EcoEco Reusable Shopping Bag,3,35,136.5,Saint Louis
+ORD954,CUST65,23-09-2023,Delivered,UrbanVibe Industrial Floor Lamp,1,30,39,Tampa
+ORD955,CUST66,31-07-2024,Cancelled,ChicCharm Midi Skirt,3,72,280.8,Charleston
+ORD956,CUST63,28-03-2024,Delivered,SportPro Agility Ladder,19,80,1976,Charlotte
+ORD957,CUST17,11/5/2022,Delivered,RusticRoots Farmhouse Wall Shelf,14,102,1856.4,Boynton Beach
+ORD958,CUST57,1/9/2024,Delivered,RusticRoots Farmhouse Wall Clock,21,53,1446.9,New Orleans
+ORD959,CUST13,1/1/2022,Shipped,EcoEssence Solar Powered Lantern,10,90,1170,Salt Lake City
+ORD960,CUST19,4/10/2021,Pending,RetroRevive Vintage Record Player,13,14,236.6,Tampa
+ORD961,CUST41,9/11/2022,Delivered,UrbanVibe Mid-Century Modern Chair,11,65,929.5,Orange
+ORD962,CUST26,28-12-2021,Shipped,PowerPulse Fitness Tracker,20,102,2652,Boston
+ORD963,CUST71,13-03-2020,Delivered,SportSprint Resistance Bands,8,116,1206.4,El Paso
+ORD964,CUST57,14-08-2024,Delivered,RusticRoots Farmhouse Wall Clock,16,90,1872,New Orleans
+ORD965,CUST73,16-03-2020,Cancelled,GlowGlow Lip Plumping Gloss,0,51,0,Everett
+ORD966,CUST53,30-06-2024,Shipped,ChicCharm Midi Dress,0,37,0,Birmingham
+ORD967,CUST14,14-04-2024,Shipped,SmartSync Smart Doorbell,22,28,800.8,Jamaica
+ORD968,CUST62,27-01-2024,Pending,FitFlex Yoga Mat,8,37,384.8,Wilkes Barre
+ORD969,CUST61,27-10-2020,Delivered,CozyCurl Faux Fur Throw Blanket,15,54,1053,Lexington
+ORD970,CUST25,1/10/2023,Delivered,RusticCharm Wooden Wall Art,1,111,144.3,Frankfort
+ORD971,CUST94,8/4/2020,Delivered,FitFlex Resistance Bands Set,8,84,873.6,Saint Louis
+ORD972,CUST87,8/9/2024,Shipped,RusticRoots Farmhouse Wall Shelf,18,53,1240.2,Laurel
+ORD973,CUST35,19-10-2023,Shipped,UrbanVibe Mid-Century Modern Chair,13,67,1132.3,Young America
+ORD974,CUST89,15-06-2023,Cancelled,ModernMingle Abstract Canvas Art,17,112,2475.2,Englewood
+ORD975,CUST63,12/1/2022,Delivered,PowerPulse Wireless Charging Pad,15,39,760.5,Charlotte
+ORD976,CUST52,29-12-2021,Shipped,RetroRevive Vintage Record Player,25,55,1787.5,Indianapolis
+ORD977,CUST32,1/5/2021,Cancelled,EcoEco Reusable Shopping Bag,9,42,491.4,San Francisco
+ORD978,CUST50,4/8/2020,Shipped,GlowGoddess Highlighter Palette,21,86,2347.8,Boston
+ORD979,CUST58,27-03-2023,Delivered,SportSwift Running Shoes,7,52,473.2,Washington
+ORD980,CUST78,17-12-2024,Delivered,SmartStream Smart TV,15,116,2262,Garden Grove
+ORD981,CUST69,23-08-2024,Pending,CozyCurl Knit Throw Pillow,22,95,2717,Garden Grove
+ORD982,CUST17,17-12-2022,Shipped,ChicCharm Midi Skirt,19,102,2519.4,Boynton Beach
+ORD983,CUST95,6/7/2022,Pending,GlowGlow Nourishing Hair Mask,25,26,845,Cincinnati
+ORD984,CUST59,8/3/2020,Pending,PowerPulse Portable Charger,25,7,227.5,San Francisco
+ORD985,CUST92,12/1/2021,Shipped,TechTrend Smart Watch,5,81,526.5,Spokane
+ORD986,CUST4,23-10-2020,Pending,TechTrend Wireless Earbuds,10,77,1001,Odessa
+ORD987,CUST36,25-02-2023,Cancelled,GlowGuru Facial Cleansing Brush,8,82,852.8,Cleveland
+ORD988,CUST75,5/9/2021,Shipped,GlowGlam Radiant Face Serum,4,101,525.2,Sacramento
+ORD989,CUST40,18-08-2020,Delivered,TrendTide Graphic Tee,9,60,702,Annapolis
+ORD990,CUST38,25-12-2024,Delivered,SportStrike Boxing Gloves,11,59,843.7,Joliet
+ORD991,CUST88,13-09-2024,Delivered,EcoBloom Sustainable Plant Stand,2,99,257.4,Las Vegas
+ORD992,CUST60,8/5/2021,Delivered,SportSprint Speed Jump Rope,12,115,1794,Alexandria
+ORD993,CUST93,20-09-2023,Cancelled,SportPro Agility Ladder,23,57,1704.3,Long Beach
+ORD994,CUST3,13-06-2020,Delivered,GlowGlow Exfoliating Body Scrub,5,25,162.5,Long Beach
+ORD995,CUST49,27-01-2022,Pending,EcoEssence Solar Powered Lantern,25,46,1495,Madison
+ORD996,CUST98,5/10/2023,Shipped,GlowGlow Illuminating Body Oil,11,13,185.9,London
+ORD997,CUST42,23-11-2020,Delivered,TrendTide Utility Jacket,21,51,1392.3,Sacramento
+ORD998,CUST33,14-02-2022,Shipped,ElectroGlow Tech Headphones,12,80,1248,Pasadena
+ORD999,CUST41,13-05-2023,Shipped,SmartSync Smart Thermostat,4,103,535.6,Orange
+ORD1000,CUST28,29-10-2024,Shipped,TechTrend Bluetooth Speaker,18,93,2176.2,Raleigh
